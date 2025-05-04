@@ -1,0 +1,1016 @@
+Title,Company,Location,Is_Remote,Rating,Salary,salary_low,salary_high,salary_avg,experience_level,tech_keywords,clean_location
+Software Engineer I,ACT3.5,Remote,True,3.5,$70K - $85K(Employer est.),70000.0,85000.0,77500.0,Entry,Other,Remote
+Software Development Engineer III,American Express Global Business Travel4.1,"Bellevue, WA",False,4.1,$137K - $203K(Employer est.),137000.0,203000.0,170000.0,Senior,Other,Bellevue
+Software Development Engineer in Test,Industrial Scientific3.3,"Pittsburgh, PA",False,3.3,$62K - $116K(Employer est.),62000.0,116000.0,89000.0,Entry,Other,Pittsburgh
+Software Engineer 5- TV Client Foundations,Netflix4.2,Remote,True,4.2,$100K - $700K(Employer est.),100000.0,700000.0,400000.0,Entry,Other,Remote
+Steam Software Engineer,Valve Software4.6,"Bellevue, WA",False,4.6,$133K - $189K(Glassdoor est.),133000.0,189000.0,161000.0,Entry,Other,Bellevue
+Software Engineer (Hybrid),Sumitomo Mitsui Banking Corporation3.7,"Scottsdale, AZ",False,3.7,$85K - $170K(Employer est.),85000.0,170000.0,127500.0,Entry,Other,Scottsdale
+Software Engineer,ClientServer Technology Solutions1.0,"Iselin, NJ",False,1.0,$74K - $119K(Glassdoor est.),74000.0,119000.0,96500.0,Entry,Other,Iselin
+(1025) Senior Software Python Engineer,Nearsure4.1,Remote,True,4.1,Not Disclosed,,,,Senior,Python,Remote
+Fullstack Software Engineer | Fully Remote,Apporto4.7,United States,False,4.7,$80K - $95K(Employer est.),80000.0,95000.0,87500.0,Entry,Other,Remote
+Full Stack Developer,Diagonal Matrix Ltd3.8,Remote,True,3.8,$150K - $190K(Employer est.),150000.0,190000.0,170000.0,Not Specified,Full Stack,Remote
+Associate Application Developer (Hybrid),Selective Insurance Company of America3.4,"Hartford, CT",False,3.4,$60K - $83K(Employer est.),60000.0,83000.0,71500.0,Entry,Other,Hartford
+Software Engineer,S.M.A.R.T.,"Phoenix, AZ",False,3.9,$70K - $120K(Employer est.),70000.0,120000.0,95000.0,Entry,Other,Phoenix
+"Associate Software Engineer, Full Stack - Remote",Crum & Forster4.3,"Glastonbury, CT",False,4.3,$51K - $95K(Employer est.),51000.0,95000.0,73000.0,Entry,Full Stack,Glastonbury
+"Software Engineer I (AWS, React, GenAI)","The Travelers Companies, Inc.4.2","Hartford, CT",False,4.2,$96K - $159K(Employer est.),96000.0,159000.0,127500.0,Entry,Other,Hartford
+Software Quality Engineer,"Vizient, Inc.3.4","Irving, TX",False,3.4,$77K - $135K(Employer est.),77000.0,135000.0,106000.0,Entry,Other,Irving
+Full-Stack Engineer,Accrete.AI4.5,"New York, NY",False,4.5,$140K - $180K(Employer est.),140000.0,180000.0,160000.0,Entry,Other,New York
+(1028) Software Python/JS Engineer,Nearsure4.1,Remote,True,4.1,Not Disclosed,,,,Mid,Python,Remote
+Software Engineer,ICF3.6,"Portland, OR",False,3.6,$81K - $138K(Employer est.),81000.0,138000.0,109500.0,Entry,Other,Portland
+Software Engineer II - Java,Mastercard4.2,"Atlanta, GA",False,4.2,$92K - $147K(Employer est.),92000.0,147000.0,119500.0,Entry,Java,Atlanta
+Full Stack Developer,Abbott Laboratories3.8,"Abbott Park, IL",False,3.8,$60K - $120K(Employer est.),60000.0,120000.0,90000.0,Not Specified,Full Stack,Abbott Park
+Software Engineer - Web (Hybrid),Sumitomo Mitsui Banking Corporation3.7,"Scottsdale, AZ",False,3.7,$85K - $170K(Employer est.),85000.0,170000.0,127500.0,Entry,Other,Scottsdale
+"Software Engineer (L5), Content Engineering",Netflix4.2,Remote,True,4.2,$170K - $720K(Employer est.),170000.0,720000.0,445000.0,Entry,Other,Remote
+Software Engineer II/III,Weyerhaeuser3.6,"Centennial, CO",False,3.6,$81K - $146K(Employer est.),81000.0,146000.0,113500.0,Senior,Other,Centennial
+Embedded Software Engineer,Technosoft Engineering Projects4.0,"Byron, NY",False,4.0,$94K - $98K(Employer est.),94000.0,98000.0,96000.0,Entry,Other,Byron
+Software Developer I,HCSS4.1,"Houston, TX",False,4.1,$60K - $83K(Glassdoor est.),60000.0,83000.0,71500.0,Entry,Other,Houston
+Software Engineer II,LegalZoom3.5,"Los Angeles, CA",False,3.5,$93K - $155K(Employer est.),93000.0,155000.0,124000.0,Mid,Other,Los Angeles
+Software Engineer I,TopBloc3.9,"Chicago, IL",False,3.9,$65K - $75K(Employer est.),65000.0,75000.0,70000.0,Entry,Other,Chicago
+Software Engineer,California Institute of Technology4.2,"Pasadena, CA",False,4.2,$109K - $130K(Employer est.),109000.0,130000.0,119500.0,Entry,Other,Pasadena
+Python Developer,Diagonal Matrix Ltd3.8,Remote,True,3.8,$150K - $190K(Employer est.),150000.0,190000.0,170000.0,Not Specified,Python,Remote
+Software Engineer,Opus IVS3.6,"Mesa, AZ",False,3.6,$80K - $100K(Employer est.),80000.0,100000.0,90000.0,Entry,Other,Mesa
+Software Engineer II,RentSpree4.1,"Seattle, WA",False,4.1,$111K - $144K(Glassdoor est.),111000.0,144000.0,127500.0,Mid,Other,Seattle
+Senior Full-Stack Engineer,Greenlight4.4,"Atlanta, GA",False,4.4,$142K - $185K(Employer est.),142000.0,185000.0,163500.0,Senior,Other,Atlanta
+Front End Software Developer,NeueHealth2.5,Remote,True,2.5,Not Disclosed,,,,Not Specified,Frontend,Remote
+Software Engineer 2,"Computer Services, Inc.3.4",Remote,True,3.4,Not Disclosed,,,,Mid,Other,Remote
+Software Engineer,KesarWeb1.0,"California City, CA",False,1.0,$70K - $100K(Employer est.),70000.0,100000.0,85000.0,Entry,Other,California City
+Software Engineer,R2 Technologies Corporation4.6,"Alpharetta, GA",False,4.6,$75.00 - $80.00 Per Hour(Employer est.),156000.0,166400.0,161200.0,Entry,Other,Alpharetta
+Software Engineer II,Digi International Inc.3.5,"Plano, TX",False,3.5,$128K - $130K(Employer est.),128000.0,130000.0,129000.0,Mid,Other,Plano
+AI Software Engineer,Zoom3.5,"Seattle, WA",False,3.5,$143K - $313K(Employer est.),143000.0,313000.0,228000.0,Entry,Other,Seattle
+Software Engineer 4,Asurion3.3,"Nashville, TN",False,3.3,Not Disclosed,,,,Entry,Other,Nashville
+Full Stack Software Engineer,LIGHTFEATHER IO LLC4.0,Remote,True,4.0,Not Disclosed,,,,Entry,Full Stack,Remote
+"Software Engineer, Inventory",Stitch Fix3.1,Remote,True,3.1,$103K - $152K(Employer est.),103000.0,152000.0,127500.0,Entry,Other,Remote
+Software Engineer 3,Asurion3.3,Remote,True,3.3,Not Disclosed,,,,Senior,Other,Remote
+Front End Software Engineer (GraphQL),Credit Karma4.1,"Charlotte, NC",False,4.1,$199K - $217K(Employer est.),199000.0,217000.0,208000.0,Entry,Frontend,Charlotte
+Software Engineer,BVA Bear's IT Solutions,"Boiling Springs, PA",False,3.9,Not Disclosed,,,,Entry,Other,Boiling Springs
+Associate Software Engineer,StockX3.5,"Detroit, MI",False,3.5,$80K - $100K(Employer est.),80000.0,100000.0,90000.0,Entry,Other,Detroit
+Jr Software Developer,Orion1802.9,"Melbourne, FL",False,2.9,$65K - $102K(Glassdoor est.),65000.0,102000.0,83500.0,Not Specified,Other,Melbourne
+Software Engineer I- Connect with a Vet,Chewy3.4,"Boston, MA",False,3.4,Not Disclosed,,,,Entry,Other,Boston
+"Fullstack Engineer, Monetization",LaunchDarkly3.6,"Oakland, CA",False,3.6,$142K - $210K(Employer est.),142000.0,210000.0,176000.0,Entry,Other,Oakland
+Software Engineer,Kizen4.0,"Austin, TX",False,4.0,$110K - $130K(Employer est.),110000.0,130000.0,120000.0,Entry,Other,Austin
+Software Engineer II,WALGREENS3.1,"Deerfield, IL",False,3.1,$99K - $158K(Employer est.),99000.0,158000.0,128500.0,Mid,Other,Deerfield
+Software Engineer - Early Careers,Sprocket Security,"Madison, WI",False,3.9,$104K - $162K(Glassdoor est.),104000.0,162000.0,133000.0,Entry,Other,Madison
+Software Engineer – Enterprise Applications,Qualcomm3.9,"San Diego, CA",False,3.9,$94K - $141K(Employer est.),94000.0,141000.0,117500.0,Entry,Other,San Diego
+Associate Software Engineer,Disney3.9,"Seattle, WA",False,3.9,$109K - $137K(Glassdoor est.),109000.0,137000.0,123000.0,Entry,Other,Seattle
+Software Engineer,SS&C3.1,"Boston, MA",False,3.1,Not Disclosed,,,,Entry,Other,Boston
+Software Development Engineer in Test (SDET),ARROWMINDS INC,"Atlanta, GA",False,3.9,$40.00 - $45.00 Per Hour(Employer est.),83200.0,93600.0,88400.0,Entry,Other,Atlanta
+Jr. Software Developer,Nova Dynamics4.0,"Philomath, OR",False,4.0,$85K(Employer est.),85000.0,85000.0,85000.0,Not Specified,Other,Philomath
+CPE BP Software Engineer,Motorola Solutions4.3,"Plantation, FL",False,4.3,$57K - $105K(Employer est.),57000.0,105000.0,81000.0,Entry,Other,Plantation
+Software Engineer,JPMorganChase4.0,"Plano, TX",False,4.0,$85K - $117K(Glassdoor est.),85000.0,117000.0,101000.0,Entry,Other,Plano
+Software Development Engineer,Fortinet3.9,"Sunnyvale, CA",False,3.9,$100K - $145K(Employer est.),100000.0,145000.0,122500.0,Entry,Other,Sunnyvale
+Software Engineer I - SDK,AGS LLC4.4,"Duluth, GA",False,4.4,$74K - $99K(Glassdoor est.),74000.0,99000.0,86500.0,Entry,Other,Duluth
+"Engineer II, Software Dev.","Liquidity Services, Inc.3.7",Remote,True,3.7,$79K - $99K(Employer est.),79000.0,99000.0,89000.0,Mid,Other,Remote
+"Backend Software Engineer - Digital Banking, Payments",Amex4.1,"Phoenix, AZ",False,4.1,$85K - $150K(Employer est.),85000.0,150000.0,117500.0,Entry,Backend,Phoenix
+Software Engineer (Java),IntraFi Network4.9,"Arlington, VA",False,4.9,$120K(Employer est.),120000.0,120000.0,120000.0,Entry,Java,Arlington
+"Software Engineer, Language Biomarker Lab - Emory College of Arts and Sciences",Emory University4.2,"Atlanta, GA",False,4.2,Not Disclosed,,,,Entry,Other,Atlanta
+Software Engineer,Microsoft4.2,United States,False,4.2,$82K - $175K(Employer est.),82000.0,175000.0,128500.0,Entry,Other,Remote
+Software Engineer III-Full Stack/React,JPMorganChase4.0,"Jersey City, NJ",False,4.0,$133K - $185K(Employer est.),133000.0,185000.0,159000.0,Senior,Full Stack,Jersey City
+"Software Engineer, Product Team",Capvision3.1,"New York, NY",False,3.1,$100K - $150K(Employer est.),100000.0,150000.0,125000.0,Entry,Other,New York
+Software Engineer-Data Quality Engineering-Associate,BlackRock Investments3.9,"Wilmington, DE",False,3.9,$110K - $138K(Employer est.),110000.0,138000.0,124000.0,Entry,Data,Wilmington
+Software Engineer II,Granges Americas3.6,"Franklin, TN",False,3.6,$87K - $113K(Glassdoor est.),87000.0,113000.0,100000.0,Mid,Other,Franklin
+Sr. Software Engineer,"Aldridge Pite, LLP2.9","Honolulu, HI",False,2.9,Not Disclosed,,,,Senior,Other,Honolulu
+Frontend Software Engineer,Signal Advisors4.4,"Detroit, MI",False,4.4,$73K - $104K(Glassdoor est.),73000.0,104000.0,88500.0,Entry,Frontend,Detroit
+Senior Software Engineer,LightBox Employer L L C3.2,Remote,True,3.2,$150K - $175K(Employer est.),150000.0,175000.0,162500.0,Senior,Other,Remote
+Software Engineer III,Bank of America3.9,"Plano, TX",False,3.9,$116K - $138K(Glassdoor est.),116000.0,138000.0,127000.0,Senior,Other,Plano
+Software Engineer II,Mastercard4.2,"O Fallon, MO",False,4.2,$92K - $147K(Employer est.),92000.0,147000.0,119500.0,Mid,Other,O Fallon
+Software Engineer,"Red Hat, Inc.4.2","Boston, MA",False,4.2,$104K - $166K(Employer est.),104000.0,166000.0,135000.0,Entry,Other,Boston
+Associate Software Engineer (Student Developer),NICE Systems4.3,"Sandy, UT",False,4.3,Not Disclosed,,,,Entry,Other,Sandy
+Software Engineer - Platform,Oumi,"Palo Alto, CA",False,3.9,$140K - $220K(Employer est.),140000.0,220000.0,180000.0,Entry,Other,Palo Alto
+Software Engineer,33rd Talent Corporation,"Denver, CO",False,3.9,$95K - $115K(Employer est.),95000.0,115000.0,105000.0,Entry,Other,Denver
+Associate Full Stack Developer,Villanova University4.5,"Villanova, PA",False,4.5,$52K - $80K(Glassdoor est.),52000.0,80000.0,66000.0,Entry,Full Stack,Villanova
+Senior Software Engineer I,DigitalOcean3.8,"Austin, TX",False,3.8,$120K - $143K(Employer est.),120000.0,143000.0,131500.0,Senior,Other,Austin
+Software Engineer,DocuSign3.6,"Seattle, WA",False,3.6,$134K - $198K(Employer est.),134000.0,198000.0,166000.0,Entry,Other,Seattle
+Software Engineer,"Click to Fill, Inc","Tampa, FL",False,3.9,Not Disclosed,,,,Entry,Other,Tampa
+Software Engineer,Fusion Health3.9,"Woodbridge, NJ",False,3.9,$80K - $113K(Glassdoor est.),80000.0,113000.0,96500.0,Entry,Other,Woodbridge
+Full Stack Engineer-an AI startup,Intellipro Group Inc.4.1,"Palo Alto, CA",False,4.1,$140K - $170K(Employer est.),140000.0,170000.0,155000.0,Entry,Full Stack,Palo Alto
+"Software Engineer, Microcontroller",EDAG Inc3.6,"Detroit, MI",False,3.6,$70K - $110K(Glassdoor est.),70000.0,110000.0,90000.0,Entry,Other,Detroit
+Front-end Engineer,Piper Companies4.0,"Merrimack, NH",False,4.0,$45.00 - $55.00 Per Hour(Employer est.),93600.0,114400.0,104000.0,Entry,Other,Merrimack
+Software Engineer II,Microsoft4.2,"Redmond, WA",False,4.2,$98K - $209K(Employer est.),98000.0,209000.0,153500.0,Mid,Other,Redmond
+Senior Software Engineer,Eastern Bank3.3,"Lynn, MA",False,3.3,$104K - $152K(Glassdoor est.),104000.0,152000.0,128000.0,Senior,Other,Lynn
+Entry Level Software Developer,Reynolds and Reynolds3.4,"Houston, TX",False,3.4,$58K - $89K(Glassdoor est.),58000.0,89000.0,73500.0,Entry,Other,Houston
+Back-end Java & AWS Software Engineer III,JPMorganChase4.0,"New York, NY",False,4.0,$133K - $185K(Employer est.),133000.0,185000.0,159000.0,Senior,Java,New York
+Software Engineer,Mochi Health3.6,"San Francisco, CA",False,3.6,$140K - $400K(Employer est.),140000.0,400000.0,270000.0,Entry,Other,San Francisco
+"Software Engineer, Web",Calm3.1,"Los Angeles, CA",False,3.1,$147K - $225K(Employer est.),147000.0,225000.0,186000.0,Entry,Other,Los Angeles
+Software Engineer – Java Developer I (1356),Strategic Systems Inc4.6,"Cincinnati, OH",False,4.6,$82K - $120K(Glassdoor est.),82000.0,120000.0,101000.0,Entry,Java,Cincinnati
+"Junior Web Developer (Canton, MI)","Automated Media, Inc5.0","Cleveland, OH",False,5.0,$25.00 - $34.62 Per Hour(Employer est.),52000.0,72009.59999999999,62004.799999999996,Entry,Other,Cleveland
+Software Engineer,Blue Yonder3.9,"Dallas, TX",False,3.9,$63K - $108K(Employer est.),63000.0,108000.0,85500.0,Entry,Other,Dallas
+Software Engineer,"HOJ INNOVATIONS, INC4.2","Salt Lake City, UT",False,4.2,$75K - $90K(Employer est.),75000.0,90000.0,82500.0,Entry,Other,Salt Lake City
+"Software Engineer II, Employee Experience - Seattle",Qualtrics3.5,"Seattle, WA",False,3.5,$116K - $219K(Employer est.),116000.0,219000.0,167500.0,Mid,Other,Seattle
+Apprentice Software Engineer (EX),VSP Global3.3,Remote,True,3.3,$59K - $80K(Employer est.),59000.0,80000.0,69500.0,Entry,Other,Remote
+Sr. Software Engineer - Backend,Lyra Health3.6,Remote,True,3.6,$142K - $196K(Employer est.),142000.0,196000.0,169000.0,Senior,Backend,Remote
+Software Engineer 1,"Garmin International, Inc.3.8","Olathe, KS",False,3.8,Not Disclosed,,,,Entry,Other,Olathe
+Software Engineer - Cloud Observability,Amex4.1,"Phoenix, AZ",False,4.1,$70K - $135K(Employer est.),70000.0,135000.0,102500.0,Entry,Cloud,Phoenix
+Android Software Engineer,eBay3.9,"Portland, OR",False,3.9,$95K - $169K(Employer est.),95000.0,169000.0,132000.0,Entry,Other,Portland
+JavaScript Software Development Engineer 4,Adobe4.2,"Lehi, UT",False,4.2,$134K - $242K(Employer est.),134000.0,242000.0,188000.0,Entry,Java,Lehi
+Software Development Co-op (Fall 2025),Emerson3.9,"Elyria, OH",False,3.9,$47K - $84K(Glassdoor est.),47000.0,84000.0,65500.0,Mid,Other,Elyria
+Software Engineer (2025 Graduates),Appian Corporation3.5,"McLean, VA",False,3.5,Not Disclosed,,,,Mid,Other,McLean
+Software Engineer I - Integrations,Flywire3.8,"Boston, MA",False,3.8,Not Disclosed,,,,Entry,Other,Boston
+Software Engineer,In-Depth Engineering Corporation4.0,"Mount Laurel, NJ",False,4.0,$90K - $175K(Employer est.),90000.0,175000.0,132500.0,Entry,Other,Mount Laurel
+Software Engineer,Lithium Auto Elixirs,"Sandy, UT",False,3.9,$25.00 - $35.00 Per Hour(Employer est.),52000.0,72800.0,62400.0,Entry,Other,Sandy
+"Backend Engineer, Observability",LaunchDarkly3.6,"Oakland, CA",False,3.6,$142K - $210K(Employer est.),142000.0,210000.0,176000.0,Entry,Backend,Oakland
+Full Stack Software Engineer,The Boring Company3.3,"Bastrop, TX",False,3.3,$66K - $114K(Glassdoor est.),66000.0,114000.0,90000.0,Entry,Full Stack,Bastrop
+Software Engineer,West Bend Insurance Company3.9,"West Bend, WI",False,3.9,$102K - $147K(Employer est.),102000.0,147000.0,124500.0,Entry,Other,West Bend
+Full Stack Engineer,Prometheum3.6,Remote,True,3.6,$120K - $180K(Employer est.),120000.0,180000.0,150000.0,Entry,Full Stack,Remote
+Java Software Engineer,"Vestmark, Inc.3.6","Wakefield, MA",False,3.6,$101K - $143K(Glassdoor est.),101000.0,143000.0,122000.0,Entry,Java,Wakefield
+Software Engineer - Platform Foundation,Blend2.7,"Carolina Beach, NC",False,2.7,$122K - $144K(Employer est.),122000.0,144000.0,133000.0,Entry,Other,Carolina Beach
+Software Development Engineer,Expedia Group3.8,"Springfield, MO",False,3.8,$95K - $151K(Employer est.),95000.0,151000.0,123000.0,Entry,Other,Springfield
+Software Engineer,"Scanslated, Inc.",Remote,True,3.9,$75K(Employer est.),75000.0,75000.0,75000.0,Entry,Other,Remote
+"Software Engineer, UI",Tecton4.8,"San Francisco, CA",False,4.8,$176K - $210K(Employer est.),176000.0,210000.0,193000.0,Entry,Other,San Francisco
+Senior Software Engineer - Pricing & Promotions,CVS Health3.2,"Boston, MA",False,3.2,$102K - $284K(Employer est.),102000.0,284000.0,193000.0,Senior,Other,Boston
+"Senior Software Engineer - SPFx, Graph API",Meijer3.3,"Boon, MI",False,3.3,$100K - $156K(Employer est.),100000.0,156000.0,128000.0,Senior,Other,Boon
+Sr Software Development Engineer,CVS Health3.2,"Richardson, TX",False,3.2,$93K - $185K(Employer est.),93000.0,185000.0,139000.0,Entry,Other,Richardson
+Software Engineer,UKG3.4,"Weston, FL",False,3.4,$89K - $128K(Employer est.),89000.0,128000.0,108500.0,Entry,Other,Weston
+Software Engineer - Data Plat,"Twitch Interactive, Inc.3.6","San Francisco, CA",False,3.6,$100K - $200K(Employer est.),100000.0,200000.0,150000.0,Entry,Data,San Francisco
+Software Engineer,Qualcomm3.9,"San Diego, CA",False,3.9,$135K - $202K(Employer est.),135000.0,202000.0,168500.0,Entry,Other,San Diego
+Software Engineer,OMRON3.2,"Chatsworth, CA",False,3.2,$98K - $120K(Employer est.),98000.0,120000.0,109000.0,Entry,Other,Chatsworth
+Software Development Engineer 2,Adobe4.2,"San Jose, CA",False,4.2,$93K - $171K(Employer est.),93000.0,171000.0,132000.0,Mid,Other,San Jose
+Software Engineer,Barclays3.9,"New York, NY",False,3.9,$120K - $175K(Employer est.),120000.0,175000.0,147500.0,Entry,Other,New York
+Software Engineer,"Pinehurst Coin Exchange, Inc.","Pinehurst, NC",False,3.9,$50K - $85K(Employer est.),50000.0,85000.0,67500.0,Entry,Other,Pinehurst
+2025 University Graduate - Software Engineer,Adobe4.2,"New York, NY",False,4.2,$76K - $152K(Employer est.),76000.0,152000.0,114000.0,Mid,Other,New York
+Full Stack Software Engineer II,Technergetics4.6,"Rome, NY",False,4.6,$90K - $115K(Employer est.),90000.0,115000.0,102500.0,Mid,Full Stack,Rome
+QA Software Engineer - Manual,"Perceptive Recruiting, LLC","Greenville, SC",False,3.9,Not Disclosed,,,,Entry,Other,Greenville
+Full-Stack Engineer,Navia Benefit Solutions3.7,"Overland Park, KS",False,3.7,$110K - $120K(Employer est.),110000.0,120000.0,115000.0,Entry,Other,Overland Park
+IT Software Engineer - SAP Production Planning,Procter & Gamble4.1,"Cincinnati, OH",False,4.1,Not Disclosed,,,,Entry,Other,Cincinnati
+Software Development Engineer in Test (SDET),Expleo4.5,"Rochester, MN",False,4.5,$65.00 Per Hour(Employer est.),135200.0,135200.0,135200.0,Entry,Other,Rochester
+Software Engineer - Robotics - 0 - 3 years,Murphy Search Group,"Hartford, CT",False,3.9,$68K - $118K(Glassdoor est.),68000.0,118000.0,93000.0,Senior,Other,Hartford
+Software Engineer II,Affirm3.8,Remote,True,3.8,$142K - $210K(Employer est.),142000.0,210000.0,176000.0,Mid,Other,Remote
+Senior Software Engineer - Pacing,The Trade Desk4.2,"New York, NY",False,4.2,$125K - $229K(Employer est.),125000.0,229000.0,177000.0,Senior,Other,New York
+Software Engineer- Frontend,Zoom3.5,"San Jose, CA",False,3.5,$98.00 Per Hour(Employer est.),203840.0,203840.0,203840.0,Entry,Frontend,San Jose
+Software Engineer,GEICO2.6,"Chevy Chase, MD",False,2.6,$130K - $260K(Employer est.),130000.0,260000.0,195000.0,Entry,Other,Chevy Chase
+Senior Software Engineer II,WALGREENS3.1,"Deerfield, IL",False,3.1,$128K - $204K(Employer est.),128000.0,204000.0,166000.0,Senior,Other,Deerfield
+Software Engineer (Integrations & Partnerships),Toma,"San Francisco, CA",False,3.9,$180K - $250K(Employer est.),180000.0,250000.0,215000.0,Entry,Other,San Francisco
+Software Test Engineer II,Cox Automotive3.9,"Atlanta, GA",False,3.9,$79K - $119K(Employer est.),79000.0,119000.0,99000.0,Mid,Other,Atlanta
+Staff Software Engineer - Full Stack Engineer,Yum! Brands3.9,"Plano, TX",False,3.9,$135K - $182K(Employer est.),135000.0,182000.0,158500.0,Entry,Full Stack,Plano
+Software Developer I/II,Fairfax County Public Schools3.8,"Fairfax, VA",False,3.8,$81K - $138K(Employer est.),81000.0,138000.0,109500.0,Mid,Other,Fairfax
+Software Engineer 1 (Engineer Software 1) 23097,HII3.5,"'Aiea, HI",False,3.5,$62K - $90K(Employer est.),62000.0,90000.0,76000.0,Senior,Other,'Aiea
+Software Development Engineer 3,Adobe4.2,"San Jose, CA",False,4.2,$113K - $206K(Employer est.),113000.0,206000.0,159500.0,Senior,Other,San Jose
+Software Engineer II,Honeywell4.1,"Raleigh, NC",False,4.1,$91K - $111K(Glassdoor est.),91000.0,111000.0,101000.0,Mid,Other,Raleigh
+Software Engineer I - .Net - Hybrid,Unum3.7,"Chattanooga, TN",False,3.7,$61K - $123K(Employer est.),61000.0,123000.0,92000.0,Entry,Other,Chattanooga
+Backend Software Engineer - Game Server Hosting,Electronic Arts4.1,"Austin, TX",False,4.1,$96K - $171K(Employer est.),96000.0,171000.0,133500.0,Entry,Backend,Austin
+JUNIOR/MIDLEVEL SOFTWARE ENGINEER,Intone Networks4.2,"Frisco, TX",False,4.2,Not Disclosed,,,,Entry,Other,Frisco
+"Software Engineer, CI/CD",Vercel4.5,United States,False,4.5,$156K - $270K(Employer est.),156000.0,270000.0,213000.0,Entry,Other,Remote
+Software Engineer I,"THE TIRE RACK, INC3.4","South Bend, IN",False,3.4,$75K - $85K(Employer est.),75000.0,85000.0,80000.0,Entry,Other,South Bend
+"Senior Software Engineer 1, Onboarding",The Farmer's Dog3.3,United States,False,3.3,$170K - $195K(Employer est.),170000.0,195000.0,182500.0,Senior,Other,Remote
+Software Quality Engineer I,Abbott Laboratories3.8,"Sylmar, CA",False,3.8,$72K - $115K(Employer est.),72000.0,115000.0,93500.0,Entry,Other,Sylmar
+Software Developer I,Mascoma Bank3.8,"Lebanon, NH",False,3.8,Not Disclosed,,,,Entry,Other,Lebanon
+Software Engineer,Johnson & Johnson4.1,"Santa Clara, CA",False,4.1,$91K - $144K(Glassdoor est.),91000.0,144000.0,117500.0,Entry,Other,Santa Clara
+Junior C# Full Stack Developer / Software Developer I,Starwood Media,Remote,True,3.9,$50K - $75K(Employer est.),50000.0,75000.0,62500.0,Entry,Full Stack,Remote
+Software Engineer,"Twitch Interactive, Inc.3.6","San Francisco, CA",False,3.6,$100K - $200K(Employer est.),100000.0,200000.0,150000.0,Entry,Other,San Francisco
+"Software Engineer, Full Stack",Qumulo Careers3.7,"Seattle, WA",False,3.7,$142K - $214K(Employer est.),142000.0,214000.0,178000.0,Entry,Full Stack,Seattle
+"Integration Engineer, Factory Software",Tesla3.5,"Austin, TX",False,3.5,$107K - $150K(Glassdoor est.),107000.0,150000.0,128500.0,Entry,Other,Austin
+Associate Cloud Engineer/Site Reliability Engineer/SRE,CVS Health3.2,"Woonsocket, RI",False,3.2,$62K - $148K(Employer est.),62000.0,148000.0,105000.0,Entry,Cloud,Woonsocket
+"Senior Software Engineer II, Caregiver Experience",Spring Health3.2,"New York, NY",False,3.2,$179K - $240K(Employer est.),179000.0,240000.0,209500.0,Senior,Other,New York
+Software Developer,Corrisoft3.2,"Lexington, KY",False,3.2,$90K - $118K(Employer est.),90000.0,118000.0,104000.0,Not Specified,Other,Lexington
+Chief Software Engineer,Ariento Inc.,"Franklin, TN",False,3.9,$125K - $175K(Employer est.),125000.0,175000.0,150000.0,Entry,Other,Franklin
+"Java Software Engineer, Property & Recording",Tyler Technologies3.8,"Lakewood, CO",False,3.8,Not Disclosed,,,,Entry,Java,Lakewood
+Networking Software Engineer,NVIDIA4.6,"Santa Clara, CA",False,4.6,$120K - $236K(Employer est.),120000.0,236000.0,178000.0,Entry,Other,Santa Clara
+Software Engineer 1,Hologic3.8,"Newark, DE",False,3.8,$73K - $115K(Employer est.),73000.0,115000.0,94000.0,Entry,Other,Newark
+Software Engineer,Jack Henry & Associates3.9,"Birmingham, AL",False,3.9,$78K - $123K(Employer est.),78000.0,123000.0,100500.0,Entry,Other,Birmingham
+Junior Software Engineer,KBR4.1,"Colorado Springs, CO",False,4.1,$77K - $121K(Glassdoor est.),77000.0,121000.0,99000.0,Entry,Other,Colorado Springs
+Software Engineer (Remote-US),Gnostech4.3,"Marlton, NJ",False,4.3,$82K - $127K(Glassdoor est.),82000.0,127000.0,104500.0,Entry,Other,Marlton
+Software Engineer,PRADCO Outdoor Brands4.1,"Birmingham, AL",False,4.1,$68K - $107K(Glassdoor est.),68000.0,107000.0,87500.0,Entry,Other,Birmingham
+"Software Engineer, Embedded, Level 3",Snapchat3.6,"San Diego, CA",False,3.6,$100K - $176K(Employer est.),100000.0,176000.0,138000.0,Senior,Other,San Diego
+Senior Software Engineer,Salesforce4.1,"Bellevue, WA",False,4.1,$143K - $218K(Employer est.),143000.0,218000.0,180500.0,Senior,Other,Bellevue
+"Senior Software Engineer, Backend - Fintech",Hopper2.9,"Ontario, CA",False,2.9,$150K - $330K(Employer est.),150000.0,330000.0,240000.0,Senior,Backend,Ontario
+25-107 Software Engineer E4,Archarithms Inc3.4,"Huntsville, AL",False,3.4,Not Disclosed,,,,Mid,Other,Huntsville
+Software Engineer,TOTAL WAREHOUSE INC3.0,"Anaheim, CA",False,3.0,$95K - $145K(Employer est.),95000.0,145000.0,120000.0,Entry,Other,Anaheim
+Software Engineer,Spectro Cloud4.3,"San Jose, CA",False,4.3,$90K - $146K(Glassdoor est.),90000.0,146000.0,118000.0,Entry,Other,San Jose
+Software Engineer,"Educational Networks, Inc.","Coral Gables, FL",False,3.9,$85K(Employer est.),85000.0,85000.0,85000.0,Entry,Other,Coral Gables
+Early Career Software Engineer,Battelle3.9,"Columbus, OH",False,3.9,Not Disclosed,,,,Entry,Other,Columbus
+Software Engineer Trainee,"Mill-Max Mfg., Corp3.5","Oyster Bay, NY",False,3.5,$60K - $90K(Employer est.),60000.0,90000.0,75000.0,Entry,Other,Oyster Bay
+Software Engineer II,Bank of America3.9,"Addison, TX",False,3.9,$95K - $115K(Glassdoor est.),95000.0,115000.0,105000.0,Mid,Other,Addison
+Software Engineer,Yext3.5,"New York, NY",False,3.5,$109K - $225K(Employer est.),109000.0,225000.0,167000.0,Entry,Other,New York
+Software Engineer,TGTG. LLC3.6,Remote,True,3.6,$90K - $100K(Employer est.),90000.0,100000.0,95000.0,Entry,Other,Remote
+Software Engineer - GenAI,Aeris Communications2.7,"San Jose, CA",False,2.7,$150K - $205K(Employer est.),150000.0,205000.0,177500.0,Entry,Other,San Jose
+Systems Software Engineer L4,Netflix4.2,Remote,True,4.2,$100K - $620K(Employer est.),100000.0,620000.0,360000.0,Entry,Other,Remote
+"Software Engineer III-React, Node, SQL JavaScript",Risk Solutions4.0,Georgia,False,4.0,Not Disclosed,,,,Senior,Java,Georgia
+"Software Engineer II (AWS, React, GenAI)","The Travelers Companies, Inc.4.2","Hartford, CT",False,4.2,$117K - $193K(Employer est.),117000.0,193000.0,155000.0,Entry,Other,Hartford
+"Software Quality Engineer, Ps Web",Adobe4.2,"San Jose, CA",False,4.2,$109K - $215K(Employer est.),109000.0,215000.0,162000.0,Entry,Other,San Jose
+Junior C++ Software Engineer,oneZero Financial Systems4.7,"Somerville, MA",False,4.7,$100K - $150K(Employer est.),100000.0,150000.0,125000.0,Entry,C++,Somerville
+Software Development Engineer,McKesson3.7,"Columbus, OH",False,3.7,$107K - $178K(Employer est.),107000.0,178000.0,142500.0,Entry,Other,Columbus
+Software Engineer,LD power automation3.0,"Long Beach, CA",False,3.0,$118K - $126K(Employer est.),118000.0,126000.0,122000.0,Entry,Other,Long Beach
+Software Engineer II,Honeywell4.1,"Aguadilla, PR",False,4.1,$69K - $96K(Glassdoor est.),69000.0,96000.0,82500.0,Mid,Other,Aguadilla
+Software Developer - Java,Uline3.4,"Pleasant Prairie, WI",False,3.4,$80K - $119K(Employer est.),80000.0,119000.0,99500.0,Not Specified,Java,Pleasant Prairie
+Associate Software Engineer -ITOPS - Fresh Graduates,i2c inc.3.6,"Redwood City, CA",False,3.6,$81K - $125K(Glassdoor est.),81000.0,125000.0,103000.0,Entry,Other,Redwood City
+Software Engineer,WALGREENS3.1,"Deerfield, IL",False,3.1,$99K - $158K(Employer est.),99000.0,158000.0,128500.0,Entry,Other,Deerfield
+Software Engineer,Interbit Data Inc.,Remote,True,3.9,Not Disclosed,,,,Entry,Other,Remote
+Entry Level Software developers,Gain America3.8,"Hicksville, NY",False,3.8,$70K(Employer est.),70000.0,70000.0,70000.0,Entry,Other,Hicksville
+Software Developer (Hybrid),NYCM4.0,"Edmeston, NY",False,4.0,$64K - $113K(Employer est.),64000.0,113000.0,88500.0,Entry,Other,Edmeston
+"Software Engineer I, II, lll (GIS Applications) Portland, OR /SLC, UT",PacifiCorp3.0,"Portland, OR",False,3.0,$79K - $122K(Employer est.),79000.0,122000.0,100500.0,Mid,Other,Portland
+Entry-Level C# Programmer,Hercules Forwarding3.9,"Jacksonville, FL",False,3.9,$60K - $75K(Employer est.),60000.0,75000.0,67500.0,Entry,Other,Jacksonville
+Software Engineer,SciPlay3.1,"Cedar Falls, IA",False,3.1,$78K - $135K(Glassdoor est.),78000.0,135000.0,106500.0,Entry,Other,Cedar Falls
+Software Engineer Ref: #00941,R2 Technologies Corporation4.6,"Alpharetta, GA",False,4.6,$80.00 - $90.00 Per Hour(Employer est.),166400.0,187200.0,176800.0,Entry,Other,Alpharetta
+Software Engineer II - Tibco,H-E-B4.2,"Austin, TX",False,4.2,Not Disclosed,,,,Entry,Other,Austin
+Software Engineer,California Public Employees' Retirement System (CalPERS)3.5,"Sacramento, CA",False,3.5,$6K - $10K(Employer est.),6000.0,10000.0,8000.0,Entry,Other,Sacramento
+Software Engineer,Frontline Wildfire Defense,California,False,3.9,$100K - $160K(Employer est.),100000.0,160000.0,130000.0,Entry,Other,California
+Jr. Software Engineer,Changeis4.0,Remote,True,4.0,$57K - $60K(Employer est.),57000.0,60000.0,58500.0,Entry,Other,Remote
+Senior Software Engineer,Splunk4.1,"San Jose, CA",False,4.1,$140K - $240K(Employer est.),140000.0,240000.0,190000.0,Senior,Other,San Jose
+Software Engineer II,Hinge-Health3.5,"San Francisco, CA",False,3.5,$122K - $182K(Employer est.),122000.0,182000.0,152000.0,Mid,Other,San Francisco
+ReactJS Application Engineer,Venuiti3.6,"Atlanta, GA",False,3.6,$120K(Employer est.),120000.0,120000.0,120000.0,Entry,Other,Atlanta
+Full Stack Software Engineer,Phennx.io,"University Park, Orange, FL",False,3.9,$90K - $150K(Employer est.),90000.0,150000.0,120000.0,Entry,Full Stack,University Park
+Associate Software Engineer,PrePass3.0,"Phoenix, AZ",False,3.0,Not Disclosed,,,,Entry,Other,Phoenix
+Software Engineer (Open to hiring at the Senior Software Engineer Level),"Wellmark, Inc.3.9","Des Moines, IA",False,3.9,Not Disclosed,,,,Senior,Other,Des Moines
+Software Engineer 4 - DR1013106,Juniper Networks4.1,"Sunnyvale, CA",False,4.1,$141K - $202K(Employer est.),141000.0,202000.0,171500.0,Senior,Other,Sunnyvale
+Senior Software Engineer,ThriftBooks2.9,"Tolleson, AZ",False,2.9,$110K(Employer est.),110000.0,110000.0,110000.0,Senior,Other,Tolleson
+"Software Engineer III-React, Node, SQL JavaScript",RELX4.0,Georgia,False,4.0,Not Disclosed,,,,Senior,Java,Georgia
+"Software Engineer, Ads Bidding Optimization",Google4.3,United States,False,4.3,Not Disclosed,,,,Entry,Other,Remote
+Software Engineer,Microsoft4.2,"Redmond, WA",False,4.2,$98K - $209K(Employer est.),98000.0,209000.0,153500.0,Entry,Other,Redmond
+Senior Software Engineer Business Applications,"Wawa, Inc.3.8","Media, PA",False,3.8,$94K - $130K(Glassdoor est.),94000.0,130000.0,112000.0,Senior,Other,Media
+Frontend Engineer - Onboarding,BitGo4.4,"San Francisco, CA",False,4.4,$150K - $180K(Employer est.),150000.0,180000.0,165000.0,Entry,Frontend,San Francisco
+2025083 Software Engineer,John Deere3.9,"Moline, IL",False,3.9,$100K - $110K(Employer est.),100000.0,110000.0,105000.0,Senior,Other,Moline
+Software Engineer,Edward Martin,"Tustin, CA",False,3.9,$120K - $145K(Employer est.),120000.0,145000.0,132500.0,Entry,Other,Tustin
+IoT Software Engineer,Homeowner Advanced Automations,"Newport Beach, CA",False,3.9,$50.00 Per Hour(Employer est.),104000.0,104000.0,104000.0,Entry,Other,Newport Beach
+Software Engineer,"ECS Federal, LLC3.9","Center, TX",False,3.9,Not Disclosed,,,,Entry,Other,Center
+Software Engineer – Entry Level,"General Dynamics Mission Systems, Inc3.9","Scottsdale, AZ",False,3.9,$82K - $84K(Employer est.),82000.0,84000.0,83000.0,Entry,Other,Scottsdale
+Software Engineer I,"Transcore, LP2.8","Nashville, TN",False,2.8,$100K - $120K(Employer est.),100000.0,120000.0,110000.0,Entry,Other,Nashville
+Product Software Integration Engineer,Qualcomm3.9,"San Diego, CA",False,3.9,$94K - $141K(Employer est.),94000.0,141000.0,117500.0,Entry,Other,San Diego
+Software Developer - Web,Uline3.4,"Waukegan, IL",False,3.4,$80K - $119K(Employer est.),80000.0,119000.0,99500.0,Not Specified,Other,Waukegan
+AI Software Engineer,Siemens4.1,"Milford, OH",False,4.1,$126K - $227K(Employer est.),126000.0,227000.0,176500.0,Entry,Other,Milford
+"Software Engineer - Fullstack, Typescript, React, Golang, SQL",Opendoor3.4,"San Francisco, CA",False,3.4,$143K - $197K(Employer est.),143000.0,197000.0,170000.0,Entry,Other,San Francisco
+Senior Software Engineer,Yext3.5,"New York, NY",False,3.5,$145K - $298K(Employer est.),145000.0,298000.0,221500.0,Senior,Other,New York
+Fullstack Engineer - Fortify,Pear VC4.8,"Dallas, TX",False,4.8,$125K - $155K(Employer est.),125000.0,155000.0,140000.0,Entry,Other,Dallas
+Software Engineer 3,Granicus Inc.2.9,Puerto Rico,False,2.9,Not Disclosed,,,,Senior,Other,Puerto Rico
+Software Engineer II,IGT3.7,"Reno, NV",False,3.7,$50K - $115K(Employer est.),50000.0,115000.0,82500.0,Mid,Other,Reno
+Software Engineer,"ASSYST, Inc.3.6","Sterling, VA",False,3.6,$80K - $114K(Glassdoor est.),80000.0,114000.0,97000.0,Entry,Other,Sterling
+"Software Engineer, New College Grad (Teradyne, North Reading, MA)",Teradyne4.2,"North Reading, MA",False,4.2,$107K - $139K(Glassdoor est.),107000.0,139000.0,123000.0,Entry,Other,North Reading
+R&D Software Engineer,Agilent Technologies Inc.3.8,Colorado,False,3.8,$114K - $178K(Employer est.),114000.0,178000.0,146000.0,Entry,Other,Colorado
+Software Developer/Engineer - UI/Web,R2 Technologies Corporation4.6,"Alpharetta, GA",False,4.6,$80.00 - $95.00 Per Hour(Employer est.),166400.0,197600.0,182000.0,Entry,Other,Alpharetta
+Software Engineer,CORMAC3.9,Remote,True,3.9,Not Disclosed,,,,Entry,Other,Remote
+software engineer,Thomson Reuters4.1,"Eagan, MN",False,4.1,$70K - $130K(Employer est.),70000.0,130000.0,100000.0,Entry,Other,Eagan
+Software Engineer,Kernel Trading Technologies LP,"Chicago, IL",False,3.9,$100K - $265K(Employer est.),100000.0,265000.0,182500.0,Entry,Other,Chicago
+Back-end Python Software Engineer II,JPMorganChase4.0,"Jersey City, NJ",False,4.0,$119K - $150K(Employer est.),119000.0,150000.0,134500.0,Mid,Python,Jersey City
+"Software Engineer II, Fullstack, Discovery Experience",Uber3.8,"Seattle, WA",False,3.8,$167K - $186K(Employer est.),167000.0,186000.0,176500.0,Mid,Other,Seattle
+"Engineer 1 - Android Developer (Hybrid - Seattle, WA)",Nordstrom Inc3.6,"Seattle, WA",False,3.6,$89K - $163K(Employer est.),89000.0,163000.0,126000.0,Entry,Other,Seattle
+Java Backend Engineer-Associate,BlackRock Investments3.9,"Atlanta, GA",False,3.9,$120K - $148K(Employer est.),120000.0,148000.0,134000.0,Entry,"Java, Backend",Atlanta
+Security Software Engineer 5,Netflix4.2,Remote,True,4.2,$230K - $900K(Employer est.),230000.0,900000.0,565000.0,Entry,Other,Remote
+Senior Software Development Engineer In Test,Equip Health3.5,Remote,True,3.5,$110K - $138K(Employer est.),110000.0,138000.0,124000.0,Senior,Other,Remote
+Software Engineer II (.Net),"The Travelers Companies, Inc.4.2","Hartford, CT",False,4.2,$117K - $193K(Employer est.),117000.0,193000.0,155000.0,Entry,Other,Hartford
+Software Engineer - IT Sustainability,Costco Wholesale3.9,"Seattle, WA",False,3.9,$130K - $225K(Employer est.),130000.0,225000.0,177500.0,Entry,Other,Seattle
+Software Engineer,PlayStation Global4.0,"Madison, WI",False,4.0,$132K - $199K(Employer est.),132000.0,199000.0,165500.0,Entry,Other,Madison
+Senior Software Engineer I - Python,The New York Public Library4.0,"New York, NY",False,4.0,$125K - $135K(Employer est.),125000.0,135000.0,130000.0,Entry,Python,New York
+Software Engineer (SRE) FedRAMP,Splunk4.1,"Boulder, CO",False,4.1,$117K - $201K(Employer est.),117000.0,201000.0,159000.0,Entry,Other,Boulder
+"Senior Software Engineer (I, II, III)",Cellares4.5,"South San Francisco, CA",False,4.5,$90K - $210K(Employer est.),90000.0,210000.0,150000.0,Senior,Other,South San Francisco
+Software Engineer,"HX5, LLC4.3","Hanscom AFB, MA",False,4.3,$71K - $101K(Glassdoor est.),71000.0,101000.0,86000.0,Entry,Other,Hanscom AFB
+Software Development Engineer,"Edify Technologies, Inc.3.9","Irving, TX",False,3.9,$50.00 - $55.00 Per Hour(Employer est.),104000.0,114400.0,109200.0,Entry,Other,Irving
+Software Engineer,Stewart Title Guaranty Company3.5,Texas,False,3.5,Not Disclosed,,,,Entry,Other,Texas
+Front End Developer,Toothpillow,"Draper, UT",False,3.9,$45.00 - $50.00 Per Hour(Employer est.),93600.0,104000.0,98800.0,Not Specified,Frontend,Draper
+Engineer (JavaScript/Java/MuleSoft),Mutual of Omaha3.9,Remote,True,3.9,$95K - $130K(Employer est.),95000.0,130000.0,112500.0,Entry,Java,Remote
+Software Engineer Microcontroller,Dew Software3.7,"Southfield, MI",False,3.7,$50.00 - $55.00 Per Hour(Employer est.),104000.0,114400.0,109200.0,Entry,Other,Southfield
+Software Engineer,NIKE4.0,"Beaverton, OR",False,4.0,$109K - $151K(Glassdoor est.),109000.0,151000.0,130000.0,Entry,Other,Beaverton
+Software Engineer,Ramp Financial4.1,United States,False,4.1,$155K - $213K(Employer est.),155000.0,213000.0,184000.0,Entry,Other,Remote
+"Software Engineer, GPU Infrastructure",OpenAI4.5,"San Francisco, CA",False,4.5,$325K - $590K(Employer est.),325000.0,590000.0,457500.0,Entry,Other,San Francisco
+Associate Software Engineer,Vermont Mutual3.9,"Montpelier, VT",False,3.9,Not Disclosed,,,,Entry,Other,Montpelier
+Software Engineer I,Vermont Mutual3.9,"Montpelier, VT",False,3.9,Not Disclosed,,,,Entry,Other,Montpelier
+"Software Engineer, GNC Simulations (Starlink)",SpaceX3.8,"Redmond, WA",False,3.8,$120K - $170K(Employer est.),120000.0,170000.0,145000.0,Entry,Other,Redmond
+Software Engineer,Suthra Technologies5.0,"West Palm Beach, FL",False,5.0,Not Disclosed,,,,Entry,Other,West Palm Beach
+Software Development Engineer - Front-End,Auger4.1,"Bellevue, WA",False,4.1,$150K - $225K(Employer est.),150000.0,225000.0,187500.0,Entry,Other,Bellevue
+Software Engineer,Parsons4.0,"Summit Point, WV",False,4.0,$73K - $128K(Employer est.),73000.0,128000.0,100500.0,Entry,Other,Summit Point
+"ReactJS, Core Java",Diverse Lynx3.8,"Carolina, PR",False,3.8,$46K - $85K(Glassdoor est.),46000.0,85000.0,65500.0,Not Specified,Java,Carolina
+Software Developer - Web,Uline3.4,"Pleasant Prairie, WI",False,3.4,$80K - $119K(Employer est.),80000.0,119000.0,99500.0,Not Specified,Other,Pleasant Prairie
+Simulation Software Engineer,Forterra3.9,Remote,True,3.9,$110K - $165K(Employer est.),110000.0,165000.0,137500.0,Entry,Other,Remote
+Jr. Software QA Engineer,Maith Solutions3.1,"Dallas, TX",False,3.1,$50K - $60K(Employer est.),50000.0,60000.0,55000.0,Entry,Other,Dallas
+Software Engineer (Telework),Texas Workforce Commission3.4,"Austin, TX",False,3.4,$6K - $9K(Employer est.),6000.0,9000.0,7500.0,Entry,Other,Austin
+Software Engineer (Backend/Fullstack) - Early in Career,Splunk4.1,Colorado,False,4.1,Not Disclosed,,,,Entry,Backend,Colorado
+Junior Software Engineer,California Public Employees' Retirement System (CalPERS)3.5,"Sacramento, CA",False,3.5,$5K - $8K(Employer est.),5000.0,8000.0,6500.0,Entry,Other,Sacramento
+Software Engineer I,Spectrum3.3,"Maryland Heights, MO",False,3.3,$73K - $93K(Glassdoor est.),73000.0,93000.0,83000.0,Entry,Other,Maryland Heights
+Software Engineer - Quadient,JSR Tech Consulting5.0,"Newark, NJ",False,5.0,$55.00 - $75.00 Per Hour(Employer est.),114400.0,156000.0,135200.0,Entry,Other,Newark
+Software Development Engineer,Workday3.9,"Boulder, CO",False,3.9,$122K - $217K(Employer est.),122000.0,217000.0,169500.0,Entry,Other,Boulder
+"Software Engineer, Backend","McAfee, LLC3.8","Frisco, TX",False,3.8,$84K - $131K(Glassdoor est.),84000.0,131000.0,107500.0,Entry,Backend,Frisco
+"Software Engineer, Backend, 6+ Years of Experience",Snapchat3.6,"Palo Alto, CA",False,3.6,$178K - $313K(Employer est.),178000.0,313000.0,245500.0,Entry,Backend,Palo Alto
+"Software Engineer, Android",Meta3.9,Remote,True,3.9,$56.25 Per Hour(Employer est.),117000.0,117000.0,117000.0,Entry,Other,Remote
+Software Engineer - Big Data Technologies,Apple4.1,"San Diego, CA",False,4.1,$116K - $204K(Employer est.),116000.0,204000.0,160000.0,Entry,Data,San Diego
+Software Engineer - Snowpark,Snowflake3.9,"Menlo Park, CA",False,3.9,$157K - $230K(Employer est.),157000.0,230000.0,193500.0,Entry,Other,Menlo Park
+Software Engineer - Core Software,NetApp3.9,"Cranberry Twp, PA",False,3.9,$106K - $158K(Employer est.),106000.0,158000.0,132000.0,Entry,Other,Cranberry Twp
+Software Engineer,Indica Labs3.9,"Albuquerque, NM",False,3.9,$60K - $102K(Glassdoor est.),60000.0,102000.0,81000.0,Entry,Other,Albuquerque
+Software Developer,Stanford University4.3,"Stanford, CA",False,4.3,$132K - $161K(Employer est.),132000.0,161000.0,146500.0,Not Specified,Other,Stanford
+Junior Software Engineer,Builder Clarity LLC,"Durham, NC",False,3.9,Not Disclosed,,,,Entry,Other,Durham
+Software Quality Engineer,Boston Scientific Corporation4.1,"Maple Grove, MN",False,4.1,$58K - $111K(Employer est.),58000.0,111000.0,84500.0,Entry,Other,Maple Grove
+"Software Developer, Junior","CGI Group, Inc.3.8","Fairfax, VA",False,3.8,$60K - $147K(Employer est.),60000.0,147000.0,103500.0,Entry,Other,Fairfax
+"Software Engineer, Full Stack (Knowledge Innovation)",OpenAI4.5,"San Francisco, CA",False,4.5,$325K - $405K(Employer est.),325000.0,405000.0,365000.0,Entry,Full Stack,San Francisco
+Software Engineer,Ancestry3.6,Remote,True,3.6,$83K - $104K(Employer est.),83000.0,104000.0,93500.0,Entry,Other,Remote
+Associate Research Software Engineer,Princeton University4.5,"Princeton, NJ",False,4.5,Not Disclosed,,,,Entry,Other,Princeton
+"Software Engineer, Frontend",OpenAI4.5,"Seattle, WA",False,4.5,$255K - $405K(Employer est.),255000.0,405000.0,330000.0,Entry,Frontend,Seattle
+Entry-Level Cyber Software Engineer,Peraton3.7,"Landover, MD",False,3.7,$66K - $106K(Employer est.),66000.0,106000.0,86000.0,Entry,Other,Landover
+"Software Engineer, Product",Meta3.9,"San Francisco, CA",False,3.9,$85.10 Per Hour(Employer est.),177008.0,177008.0,177008.0,Entry,Other,San Francisco
+"Software Engineer, Player Engagement",Discord3.6,"San Francisco, CA",False,3.6,$160K - $180K(Employer est.),160000.0,180000.0,170000.0,Entry,Other,San Francisco
+"Software Engineer, Frontend - Risk Platform",Coinbase3.8,Remote,True,3.8,$152K - $179K(Employer est.),152000.0,179000.0,165500.0,Entry,Frontend,Remote
+Computer Scientist / Software Engineer,Lockheed Martin4.1,"Camden, AR",False,4.1,Not Disclosed,,,,Entry,Other,Camden
+Software Engineer II,GEICO2.6,"Los Angeles, CA",False,2.6,$80K - $160K(Employer est.),80000.0,160000.0,120000.0,Mid,Other,Los Angeles
+Associate Engineer – Full Stack,PayPal3.7,"San Jose, CA",False,3.7,$117K - $163K(Glassdoor est.),117000.0,163000.0,140000.0,Entry,Full Stack,San Jose
+Epic OpTime Software Engineer,Intelliguard,"Columbus, OH",False,3.9,$80K - $110K(Employer est.),80000.0,110000.0,95000.0,Entry,Other,Columbus
+Software Engineer - Java,Veeva Systems3.6,"Raleigh, NC",False,3.6,$85K - $225K(Employer est.),85000.0,225000.0,155000.0,Entry,Java,Raleigh
+Software Engineer - Java,Spring Venture Group3.5,"Kansas City, MO",False,3.5,$95K - $133K(Glassdoor est.),95000.0,133000.0,114000.0,Entry,Java,Kansas City
+"Software Engineer IV (Hybrid, Jersey City, Raleigh, or Hartford)",Arch Capital Group Ltd.4.2,"Jersey City, NJ",False,4.2,$115K - $175K(Employer est.),115000.0,175000.0,145000.0,Entry,Other,Jersey City
+"Software Engineer, CVML Efficiency and Systems - Decoder Systems (Codec Avatars)",Meta3.9,"Bellevue, WA",False,3.9,$56.25 Per Hour(Employer est.),117000.0,117000.0,117000.0,Entry,Other,Bellevue
+"Software Engineer, Full Stack",OpenAI4.5,"San Francisco, CA",False,4.5,$255K - $405K(Employer est.),255000.0,405000.0,330000.0,Entry,Full Stack,San Francisco
+Software Engineer I,MX Technologies Inc.3.6,"Lehi, UT",False,3.6,$84K - $121K(Glassdoor est.),84000.0,121000.0,102500.0,Entry,Other,Lehi
+Senior Software Engineer,"Marriott International, Inc3.9","Bethesda, MD",False,3.9,$104K - $173K(Employer est.),104000.0,173000.0,138500.0,Senior,Other,Bethesda
+Software Engineer (C++),Boxbot5.0,"Alameda, CA",False,5.0,$135K - $160K(Employer est.),135000.0,160000.0,147500.0,Entry,C++,Alameda
+"Software Engineer - Systems, Multiple Locaitons",Microsoft4.2,"Redmond, WA",False,4.2,$82K - $175K(Employer est.),82000.0,175000.0,128500.0,Entry,Other,Redmond
+Software Engineer II - Backend,Uber3.8,"Seattle, WA",False,3.8,$167K - $186K(Employer est.),167000.0,186000.0,176500.0,Entry,Backend,Seattle
+Software Engineering Assistant,Local Garage Door Repair Inx,"West Hollywood, CA",False,3.9,$30.00 Per Hour(Employer est.),62400.0,62400.0,62400.0,Entry,Other,West Hollywood
+Software Test Engineer,rsatechgroup,"Little Elm, TX",False,3.9,Not Disclosed,,,,Entry,Other,Little Elm
+Software Development Engineer,Compile5.0,"Columbus, OH",False,5.0,$107K - $178K(Employer est.),107000.0,178000.0,142500.0,Entry,Other,Columbus
+"Software Engineer, Apple Services Engineering",Apple4.1,"San Francisco, CA",False,4.1,$143K - $264K(Employer est.),143000.0,264000.0,203500.0,Entry,Other,San Francisco
+"Software Engineer, Healthcare",OpenAI4.5,"San Francisco, CA",False,4.5,$245K - $385K(Employer est.),245000.0,385000.0,315000.0,Entry,Other,San Francisco
+"Early Career Computer Science - Cloud Engineer, Onsite",Sandia National Laboratories4.1,"Albuquerque, NM",False,4.1,$99K - $194K(Employer est.),99000.0,194000.0,146500.0,Entry,Cloud,Albuquerque
+Software Engineering Co-op - Fall 2025,Johnson & Johnson4.1,"Cincinnati, OH",False,4.1,Not Disclosed,,,,Mid,Other,Cincinnati
+Full Stack Engineer,10clear Inc.,"Brooklyn, NY",False,3.9,$160K - $225K(Employer est.),160000.0,225000.0,192500.0,Entry,Full Stack,Brooklyn
+Entry Level Software Engineer,Amentum3.6,"Fredericksburg, VA",False,3.6,Not Disclosed,,,,Entry,Other,Fredericksburg
+Software Engineer - DOOM II,SAIC4.0,"Fort Riley, KS",False,4.0,Not Disclosed,,,,Mid,Other,Fort Riley
+Software Engineer,MPX2.4,"Portland, ME",False,2.4,Not Disclosed,,,,Entry,Other,Portland
+Software Engineer – Artifact Management & Continuous Integration,GEICO2.6,"San Francisco, CA",False,2.6,$90K - $230K(Employer est.),90000.0,230000.0,160000.0,Entry,Other,San Francisco
+Software Development Engineer,Adobe4.2,"Lehi, UT",False,4.2,$93K - $171K(Employer est.),93000.0,171000.0,132000.0,Entry,Other,Lehi
+Software Engineer Graduate (TikTok Short Video) - 2025 Start (Bachelors/Master),TikTok3.2,"Los Angeles, CA",False,3.2,$119K - $168K(Employer est.),119000.0,168000.0,143500.0,Mid,Other,Los Angeles
+Software User Experience Quality Engineer,Apple4.1,"Cupertino, CA",False,4.1,$97K - $188K(Employer est.),97000.0,188000.0,142500.0,Entry,Other,Cupertino
+Software Engineer II - PaaS,Qualtrics3.5,"Seattle, WA",False,3.5,$116K - $219K(Employer est.),116000.0,219000.0,167500.0,Entry,Other,Seattle
+FLEX Senior Software Engineer - Front End,"Marriott International, Inc3.9","Bethesda, MD",False,3.9,$47.35 - $84.09 Per Hour(Employer est.),98488.0,174907.2,136697.6,Senior,Frontend,Bethesda
+"Software Engineer, Backend - Sora",OpenAI4.5,"San Francisco, CA",False,4.5,$255K - $405K(Employer est.),255000.0,405000.0,330000.0,Entry,Backend,San Francisco
+Software Engineer - Infrastructure Observability Monitoring (Remote USA),Splunk4.1,Remote,True,4.1,$117K - $201K(Employer est.),117000.0,201000.0,159000.0,Entry,Other,Remote
+Fullstack Engineer,Agile Technologies,"New York, NY",False,3.9,$150K - $200K(Employer est.),150000.0,200000.0,175000.0,Entry,Other,New York
+Entry Level MEAN Stack Developer,"Antra, Inc3.9","Sterling, VA",False,3.9,$65K - $70K(Employer est.),65000.0,70000.0,67500.0,Entry,Other,Sterling
+Software Developer,Oracle3.7,"Seattle, WA",False,3.7,$86K - $136K(Glassdoor est.),86000.0,136000.0,111000.0,Not Specified,Other,Seattle
+Software Engineer II (Apple Platform),Warner Bros. Discovery3.6,"Culver City, CA",False,3.6,$88K - $163K(Employer est.),88000.0,163000.0,125500.0,Entry,Other,Culver City
+Software Engineer,Tyler Technologies3.8,"Plano, TX",False,3.8,$75K - $105K(Glassdoor est.),75000.0,105000.0,90000.0,Entry,Other,Plano
+Frontend Software Engineer,Snowflake3.9,"Bellevue, WA",False,3.9,$157K - $230K(Employer est.),157000.0,230000.0,193500.0,Entry,Frontend,Bellevue
+Software Engineer,Ramp Financial4.1,"New York, NY",False,4.1,$155K - $213K(Employer est.),155000.0,213000.0,184000.0,Entry,Other,New York
+Software Engineer Associate,University of Massachusetts Medical School4.1,"Worcester, MA",False,4.1,$72K - $98K(Glassdoor est.),72000.0,98000.0,85000.0,Entry,Other,Worcester
+Software Engineer,Viasat3.6,Oregon,False,3.6,$136K - $253K(Employer est.),136000.0,253000.0,194500.0,Entry,Other,Oregon
+Junior Software Engineer - Python/C++,Peraton3.7,"Scott Air Force Base, IL",False,3.7,$80K - $128K(Employer est.),80000.0,128000.0,104000.0,Entry,"Python, C++",Scott Air Force Base
+IT Software Engineer,Micron3.8,"Boise, ID",False,3.8,Not Disclosed,,,,Entry,Other,Boise
+Backend Software Engineer,Apple4.1,"Elk Grove, CA",False,4.1,$158K - $238K(Employer est.),158000.0,238000.0,198000.0,Entry,Backend,Elk Grove
+Junior Software Developer,Real Synch,"Austin, TX",False,3.9,$50K - $80K(Employer est.),50000.0,80000.0,65000.0,Entry,Other,Austin
+"Software Engineer Frontend, Ad Platforms",Apple4.1,United States,False,4.1,$143K - $215K(Employer est.),143000.0,215000.0,179000.0,Entry,Frontend,Remote
+Full Stack Engineer,Thesis2.8,"New York, NY",False,2.8,$160K - $180K(Employer est.),160000.0,180000.0,170000.0,Entry,Full Stack,New York
+Software Engineer II (C/C++ & Testing),Mastercard4.2,"O Fallon, MO",False,4.2,$92K - $147K(Employer est.),92000.0,147000.0,119500.0,Entry,C++,O Fallon
+Software Engineer - Frontend,Artian AI5.0,"New York, NY",False,5.0,$80K - $120K(Employer est.),80000.0,120000.0,100000.0,Entry,Frontend,New York
+Frontend Engineer,Blacksmith,"New York, NY",False,3.9,$160K - $220K(Employer est.),160000.0,220000.0,190000.0,Entry,Frontend,New York
+"Software Engineer, CAT E&A",Berkshire Hathaway Specialty Insurance3.6,"Atlanta, GA",False,3.6,$115K - $155K(Employer est.),115000.0,155000.0,135000.0,Entry,Other,Atlanta
+Advanced Software Engineer,Kroger Tech & Digital3.4,"Blue Ash, OH",False,3.4,$85K - $121K(Glassdoor est.),85000.0,121000.0,103000.0,Entry,Other,Blue Ash
+Software Engineer,Orbis3.9,"San Francisco, CA",False,3.9,$180K - $220K(Employer est.),180000.0,220000.0,200000.0,Entry,Other,San Francisco
+Software Engineer - Web Full-Stack,Firsthand3.3,"New York, NY",False,3.3,$140K - $170K(Employer est.),140000.0,170000.0,155000.0,Entry,Other,New York
+Software Engineer - AI,FocusKPI Inc.3.3,"San Francisco, CA",False,3.3,$65.00 - $78.00 Per Hour(Employer est.),135200.0,162240.0,148720.0,Entry,Other,San Francisco
+Intermediate Software Engineer,Transfire,"Tukwila, WA",False,3.9,$80K(Employer est.),80000.0,80000.0,80000.0,Entry,Other,Tukwila
+Software Engineer 5 - Growth Foundations,Netflix4.2,Remote,True,4.2,$100K - $720K(Employer est.),100000.0,720000.0,410000.0,Entry,Other,Remote
+Software Engineer,Pantherx Specialty LLC4.0,"Pittsburgh, PA",False,4.0,$76K - $113K(Glassdoor est.),76000.0,113000.0,94500.0,Entry,Other,Pittsburgh
+Software Developer,"Orion180 Insurance Services, LLC2.9","Irving, TX",False,2.9,$100K - $107K(Employer est.),100000.0,107000.0,103500.0,Not Specified,Other,Irving
+Software Engineer - Backend,Uber3.8,"New York, NY",False,3.8,$167K - $186K(Employer est.),167000.0,186000.0,176500.0,Entry,Backend,New York
+Software Engineer,Snowflake3.9,"Menlo Park, CA",False,3.9,$157K - $230K(Employer est.),157000.0,230000.0,193500.0,Entry,Other,Menlo Park
+Software Engineer,Vuegen4.0,"Hoffman Estates, IL",False,4.0,$149K - $152K(Employer est.),149000.0,152000.0,150500.0,Entry,Other,Hoffman Estates
+Software Engineer,Q2ebanking3.7,"Austin, TX",False,3.7,$73K - $102K(Glassdoor est.),73000.0,102000.0,87500.0,Entry,Other,Austin
+Software Development Engineer,GalaxE.Solutions3.5,"Berkeley Heights, NJ",False,3.5,$141K - $161K(Employer est.),141000.0,161000.0,151000.0,Entry,Other,Berkeley Heights
+"Software Engineer, Ads",Apple4.1,"Cupertino, CA",False,4.1,$143K - $264K(Employer est.),143000.0,264000.0,203500.0,Entry,Other,Cupertino
+C++ Software Engineer,Cognitive Capital3.6,"Chicago, IL",False,3.6,$150K - $225K(Employer est.),150000.0,225000.0,187500.0,Entry,C++,Chicago
+Software Engineer,Marathon Petroleum Company LP3.9,"Findlay, OH",False,3.9,$79K - $136K(Employer est.),79000.0,136000.0,107500.0,Entry,Other,Findlay
+Software Engineer,Xcellent Technology Solutions2.5,"Rolla, MO",False,2.5,$77K - $115K(Glassdoor est.),77000.0,115000.0,96000.0,Entry,Other,Rolla
+Junior Embedded Software Engineer,"General Dynamics Mission Systems, Inc3.9","Dedham, MA",False,3.9,$100K - $102K(Employer est.),100000.0,102000.0,101000.0,Entry,Other,Dedham
+Software Engineer,Siemens4.1,"Raleigh, NC",False,4.1,$90K - $145K(Employer est.),90000.0,145000.0,117500.0,Entry,Other,Raleigh
+Software Engineer - Associate P3,Morgan Stanley3.9,"New York, NY",False,3.9,$110K - $160K(Employer est.),110000.0,160000.0,135000.0,Entry,Other,New York
+Software Engineer (AI Focus),Hassle Free Home Services,"Rockville, MD",False,3.9,Not Disclosed,,,,Entry,Other,Rockville
+"Software Engineer, Metrics Tooling and Automation",Zoox3.8,"Foster City, CA",False,3.8,$210K - $303K(Employer est.),210000.0,303000.0,256500.0,Entry,Other,Foster City
+"Software Engineer, Global Banking & Markets, Repo Technology",Goldman Sachs3.8,"Dallas, TX",False,3.8,$128K - $189K(Glassdoor est.),128000.0,189000.0,158500.0,Entry,Other,Dallas
+Delivery Excellence - Software Engineering - Associate - Summer / Fall 2025,PRICE WATERHOUSE COOPERS3.8,"New York, NY",False,3.8,$72K - $100K(Employer est.),72000.0,100000.0,86000.0,Entry,Other,New York
+AI Software Engineer,University of St Thomas4.2,"Saint Paul, MN",False,4.2,$69K - $78K(Employer est.),69000.0,78000.0,73500.0,Entry,Other,Saint Paul
+Software Engineer Entry Level,ELEVI Associates4.4,"Annapolis Junction, MD",False,4.4,$65K - $97K(Employer est.),65000.0,97000.0,81000.0,Entry,Other,Annapolis Junction
+Frontend Engineer,RainesDev,"San Francisco, CA",False,3.9,$130K - $200K(Employer est.),130000.0,200000.0,165000.0,Entry,Frontend,San Francisco
+"Frontend Engineer, Agentic Tooling",OpenAI4.5,"San Francisco, CA",False,4.5,$220K - $320K(Employer est.),220000.0,320000.0,270000.0,Entry,Frontend,San Francisco
+Software Engineer,Agentio,"New York, NY",False,3.9,$130K - $175K(Employer est.),130000.0,175000.0,152500.0,Entry,Other,New York
+"Backend Software Engineer, Leverage Engineering",OpenAI4.5,"San Francisco, CA",False,4.5,$325K - $405K(Employer est.),325000.0,405000.0,365000.0,Entry,Backend,San Francisco
+"Software Engineer, Security Observability",OpenAI4.5,"Seattle, WA",False,4.5,$255K - $325K(Employer est.),255000.0,325000.0,290000.0,Entry,Other,Seattle
+Software Engineer I - Drive Systems,Komatsu4.1,"Peoria, IL",False,4.1,$64K - $80K(Employer est.),64000.0,80000.0,72000.0,Entry,Other,Peoria
+Junior Systems/ Software Engineer,"R&P Technologies, LLC3.8","Pascagoula, MS",False,3.8,$70K - $128K(Glassdoor est.),70000.0,128000.0,99000.0,Entry,Other,Pascagoula
+Senior Software Engineer,PlayStation Global4.0,"Madison, WI",False,4.0,$156K - $235K(Employer est.),156000.0,235000.0,195500.0,Senior,Other,Madison
+Senior Software Development Engineer,Expedia Group3.8,"Seattle, WA",False,3.8,$173K - $277K(Employer est.),173000.0,277000.0,225000.0,Senior,Other,Seattle
+Software Engineer,CyberCube4.7,"New York, NY",False,4.7,$140K - $160K(Employer est.),140000.0,160000.0,150000.0,Entry,Other,New York
+Software Engineer I (Entry Level),BAE Systems3.7,Patuxent River Naval Air Station,False,3.7,$64K - $108K(Employer est.),64000.0,108000.0,86000.0,Entry,Other,Patuxent River Naval Air Station
+CAM Software Engineer,Mazak Optonics Corporation3.9,"Elgin, IL",False,3.9,$30.00 Per Hour(Employer est.),62400.0,62400.0,62400.0,Entry,Other,Elgin
+"Backend Software Engineer, TikTok - Social User and Relation",TikTok3.2,"Los Angeles, CA",False,3.2,$119K - $238K(Employer est.),119000.0,238000.0,178500.0,Entry,Backend,Los Angeles
+URBN Web Software Engineer,URBN3.7,"Philadelphia, PA",False,3.7,Not Disclosed,,,,Entry,Other,Philadelphia
+Software Engineer,Hms Networks3.4,"Mobile, AL",False,3.4,$79K - $110K(Employer est.),79000.0,110000.0,94500.0,Entry,Other,Mobile
+Front Office Software Engineer,TP ICAP3.5,Illinois,False,3.5,Not Disclosed,,,,Entry,Other,Illinois
+Software Engineer,Point724.0,"New York, NY",False,4.0,$125K - $175K(Employer est.),125000.0,175000.0,150000.0,Entry,Other,New York
+Junior Software Engineer,CSLabs,"Alexandria, VA",False,3.9,$65K - $70K(Employer est.),65000.0,70000.0,67500.0,Entry,Other,Alexandria
+Web Developer/Software Engineer,Intrsync,"Airmont, NY",False,3.9,$20.00 - $55.00 Per Hour(Employer est.),41600.0,114400.0,78000.0,Entry,Other,Airmont
+Software Developer,Oracle3.7,"Austin, TX",False,3.7,$79K - $125K(Glassdoor est.),79000.0,125000.0,102000.0,Not Specified,Other,Austin
+1447 - Software Engineer I,Sigma Defense4.7,"Fairmont, WV",False,4.7,$70K - $90K(Employer est.),70000.0,90000.0,80000.0,Entry,Other,Fairmont
+Back End Software Engineer,Medline Industries3.6,"Northfield, IL",False,3.6,$115K - $173K(Employer est.),115000.0,173000.0,144000.0,Entry,Other,Northfield
+Software Engineer - Networking Software,Juniper Networks4.1,"Sunnyvale, CA",False,4.1,$194K - $279K(Employer est.),194000.0,279000.0,236500.0,Entry,Other,Sunnyvale
+Software Engineer II - Latitude Application Development,Boston Scientific Corporation4.1,"Arden Hills, MN",False,4.1,$70K - $132K(Employer est.),70000.0,132000.0,101000.0,Entry,Other,Arden Hills
+Software Engineer - Frontend - Splunk License Reporting,Splunk4.1,Texas,False,4.1,$117K - $201K(Employer est.),117000.0,201000.0,159000.0,Entry,Frontend,Texas
+Software Engineer FrontEnd (Multiple Levels) - Slack,Salesforce4.1,"San Francisco, CA",False,4.1,$172K - $335K(Employer est.),172000.0,335000.0,253500.0,Entry,Frontend,San Francisco
+"Software Engineer, Document Systems",Tesla3.5,"Fremont, CA",False,3.5,$111K - $200K(Employer est.),111000.0,200000.0,155500.0,Entry,Other,Fremont
+Software Engineer Junior,Mlt Systems4.6,"Stafford, VA",False,4.6,$76K - $108K(Glassdoor est.),76000.0,108000.0,92000.0,Entry,Other,Stafford
+Software Engineer - Backend,Rivian3.5,"Palo Alto, CA",False,3.5,$116K - $145K(Employer est.),116000.0,145000.0,130500.0,Entry,Backend,Palo Alto
+"Software Engineer, Reliability",Point724.0,"Stamford, NY",False,4.0,$175K - $250K(Employer est.),175000.0,250000.0,212500.0,Entry,Other,Stamford
+Software Engineer,Apple4.1,"Elk Grove, CA",False,4.1,$135K - $193K(Employer est.),135000.0,193000.0,164000.0,Entry,Other,Elk Grove
+Backend Software Engineer,Onnee,"Lancaster, PA",False,3.9,$100K - $140K(Employer est.),100000.0,140000.0,120000.0,Entry,Backend,Lancaster
+"Software Engineer, Test",Disney3.9,"Emeryville, CA",False,3.9,$131K - $170K(Employer est.),131000.0,170000.0,150500.0,Entry,Other,Emeryville
+Graduate Software Engineer,"21st Century Software Technologies, Inc.4.0","Morehead City, NC",False,4.0,$79K - $106K(Glassdoor est.),79000.0,106000.0,92500.0,Entry,Other,Morehead City
+"Software Engineer, Connectors",Redpanda Data3.9,Remote,True,3.9,$195K - $230K(Employer est.),195000.0,230000.0,212500.0,Entry,Other,Remote
+Senior Software Engineer (ILS),Ingram Content Group3.7,"La Vergne, TN",False,3.7,$83K - $126K(Glassdoor est.),83000.0,126000.0,104500.0,Senior,Other,La Vergne
+Software Engineer I,IGT3.7,"Lakeland, FL",False,3.7,$40K - $103K(Employer est.),40000.0,103000.0,71500.0,Entry,Other,Lakeland
+Fullstack Web Application Software Engineer - Entry Level,CACI3.8,"Rome, NY",False,3.8,$50K - $100K(Employer est.),50000.0,100000.0,75000.0,Entry,Other,Rome
+Security Software Engineer II,Microsoft4.2,"Redmond, WA",False,4.2,$98K - $209K(Employer est.),98000.0,209000.0,153500.0,Mid,Other,Redmond
+"Software Engineer, Frontend",Decagon3.9,"San Francisco, CA",False,3.9,$170K - $270K(Employer est.),170000.0,270000.0,220000.0,Entry,Frontend,San Francisco
+Software Engineer (New Graduate),Gallatin4.2,"El Segundo, CA",False,4.2,$100K - $162K(Glassdoor est.),100000.0,162000.0,131000.0,Entry,Other,El Segundo
+"Software Engineer, Activations",Alkami3.6,Remote,True,3.6,$118K - $177K(Employer est.),118000.0,177000.0,147500.0,Entry,Other,Remote
+Backend Software Engineer,"KorTerra, Inc.4.2","Chanhassen, MN",False,4.2,$100K(Employer est.),100000.0,100000.0,100000.0,Entry,Backend,Chanhassen
+"Infrastructure Software Engineer, Leverage Engineering",OpenAI4.5,"San Francisco, CA",False,4.5,$325K - $405K(Employer est.),325000.0,405000.0,365000.0,Entry,Other,San Francisco
+Software Engineer II,Uber3.8,"San Francisco, CA",False,3.8,$167K - $186K(Employer est.),167000.0,186000.0,176500.0,Mid,Other,San Francisco
+"Backend Engineer (Java), All Levels - NYC",Medal4.3,"New York, NY",False,4.3,$120K - $250K(Employer est.),120000.0,250000.0,185000.0,Entry,"Java, Backend",New York
+Software Engineer - Travel Portfolio - Costco Travel,Costco Wholesale3.9,"Seattle, WA",False,3.9,$105K - $160K(Employer est.),105000.0,160000.0,132500.0,Entry,Other,Seattle
+Software Engineer - Web,Rekuten Global3.8,"San Mateo, CA",False,3.8,$79K - $134K(Employer est.),79000.0,134000.0,106500.0,Entry,Other,San Mateo
+"Full Stack Engineer, Fleet Scheduling",OpenAI4.5,"San Francisco, CA",False,4.5,$325K - $490K(Employer est.),325000.0,490000.0,407500.0,Entry,Full Stack,San Francisco
+Java Spring Boot Developer,R2 Technologies Corporation4.6,"Atlanta, GA",False,4.6,$70.00 - $75.00 Per Hour(Employer est.),145600.0,156000.0,150800.0,Entry,Java,Atlanta
+Front-End Engineer,Extra Duty Solutions3.9,"San Antonio, TX",False,3.9,$80K(Employer est.),80000.0,80000.0,80000.0,Entry,Other,San Antonio
+Amazon Robotics - Software Development Engineer Co-Op - Fall 2025,Amazon.com Services LLC3.6,"Westborough, MA",False,3.6,$47.84 - $96.15 Per Hour(Employer est.),99507.20000000001,199992.0,149749.6,Mid,Other,Westborough
+"Senior Software Engineer, Inbound Team - Hybrid - Seattle",Nordstrom Inc3.6,"Seattle, WA",False,3.6,$121K - $221K(Employer est.),121000.0,221000.0,171000.0,Senior,Other,Seattle
+"Frontend Software Engineer, Global E-commerce Customer Business",TikTok3.2,"Seattle, WA",False,3.2,$138K - $238K(Employer est.),138000.0,238000.0,188000.0,Entry,Frontend,Seattle
+Backend Software Engineer,Lumafield4.3,"San Francisco, CA",False,4.3,$100K - $135K(Employer est.),100000.0,135000.0,117500.0,Entry,Backend,San Francisco
+GPU Software Engineer,ALTEN Technology USA3.2,"Waukesha, WI",False,3.2,$150K - $200K(Employer est.),150000.0,200000.0,175000.0,Entry,Other,Waukesha
+ServiceNow Software Engineer I - ITS Technology OpEx - Full Time - Days - Remote,ProMedica3.6,"Toledo, OH",False,3.6,$37K - $103K(Employer est.),37000.0,103000.0,70000.0,Entry,Other,Toledo
+Software Engineer 3,The Farmer's Dog3.3,"New York, NY",False,3.3,$140K - $170K(Employer est.),140000.0,170000.0,155000.0,Senior,Other,New York
+"Front-End Engineer (React+Electron), All Levels - NYC",Medal4.3,"New York, NY",False,4.3,$120K - $250K(Employer est.),120000.0,250000.0,185000.0,Entry,Other,New York
+"Sr. Software Engineer I (Web, Fullstack)",NinjaTrader3.7,"Chicago, IL",False,3.7,$155K - $170K(Employer est.),155000.0,170000.0,162500.0,Entry,Other,Chicago
+"Software Engineer, Healthline",RVO Health3.2,"Charlotte, NC",False,3.2,$98K - $120K(Employer est.),98000.0,120000.0,109000.0,Entry,Other,Charlotte
+Senior Software Engineer I,McKinsey & Company4.1,"San Jose, CA",False,4.1,$177K - $236K(Glassdoor est.),177000.0,236000.0,206500.0,Senior,Other,San Jose
+Associate Software Engineer (Student Developer),NICE4.0,"Sandy, UT",False,4.0,$72K - $102K(Glassdoor est.),72000.0,102000.0,87000.0,Entry,Other,Sandy
+"Senior Software Engineer, Distributed Backend",Roku3.7,"New York, NY",False,3.7,$186K - $348K(Employer est.),186000.0,348000.0,267000.0,Senior,Backend,New York
+Prompt Engineer AI,turing3.8,"New York, NY",False,3.8,$70.00 - $80.00 Per Hour(Employer est.),145600.0,166400.0,156000.0,Entry,Other,New York
+Software Engineer,Albers Aersopace3.9,"McKinney, TX",False,3.9,$80K - $110K(Employer est.),80000.0,110000.0,95000.0,Entry,Other,McKinney
+Software Engineer,Northwestern Mutual3.8,"Milwaukee, WI",False,3.8,$110K - $190K(Employer est.),110000.0,190000.0,150000.0,Entry,Other,Milwaukee
+Software Engineer,Capgemini3.8,"Atlanta, GA",False,3.8,$86K - $127K(Employer est.),86000.0,127000.0,106500.0,Entry,Other,Atlanta
+"Backend Software Engineer, Conversational AI - USDS",TikTok3.2,"Seattle, WA",False,3.2,$138K - $238K(Employer est.),138000.0,238000.0,188000.0,Entry,Backend,Seattle
+"Associate Software Engineer, Backend Python",PayPal3.7,"San Jose, CA",False,3.7,Not Disclosed,,,,Entry,"Python, Backend",San Jose
+Senior Software Engineer,Recruitz Agency,"New York, NY",False,3.9,$180K - $250K(Employer est.),180000.0,250000.0,215000.0,Senior,Other,New York
+Software Engineer - RAG,Salesforce4.1,"Palo Alto, CA",False,4.1,$158K - $237K(Employer est.),158000.0,237000.0,197500.0,Entry,Other,Palo Alto
+Windows Software Engineer,FTS (Fast Tracking Solutions)2.9,"Rochester, NY",False,2.9,$90K - $110K(Employer est.),90000.0,110000.0,100000.0,Entry,Other,Rochester
+"Full Stack Engineer, Sora",OpenAI4.5,"San Francisco, CA",False,4.5,$255K - $405K(Employer est.),255000.0,405000.0,330000.0,Entry,Full Stack,San Francisco
+Software Engineer,Goliath Partners4.5,"New York, NY",False,4.5,$130K - $350K(Employer est.),130000.0,350000.0,240000.0,Entry,Other,New York
+"Software Engineer, C++, 2+ Years Of Experience",Snapchat3.6,"Los Angeles, CA",False,3.6,$133K - $235K(Employer est.),133000.0,235000.0,184000.0,Mid,C++,Los Angeles
+Software Development Engineer - Applications,Apple4.1,"Cupertino, CA",False,4.1,$176K - $264K(Employer est.),176000.0,264000.0,220000.0,Entry,Other,Cupertino
+"Software Engineer, Backend Java",PayPal3.7,"San Jose, CA",False,3.7,Not Disclosed,,,,Entry,"Java, Backend",San Jose
+Junior Software Engineer,CenterEdge Software4.1,United States,False,4.1,Not Disclosed,,,,Entry,Other,Remote
+Software Engineer,Safran3.9,"Rochester, NY",False,3.9,$61K - $95K(Employer est.),61000.0,95000.0,78000.0,Entry,Other,Rochester
+Software Engineer (Communications & Login),Cedar Inc4.4,"New York, NY",False,4.4,$145K - $162K(Employer est.),145000.0,162000.0,153500.0,Entry,Other,New York
+"Observability Software Engineer, AI Infrastructure",Tesla3.5,"Fremont, CA",False,3.5,$133K - $293K(Employer est.),133000.0,293000.0,213000.0,Entry,Other,Fremont
+Software Engineer,KLA4.0,"Milpitas, CA",False,4.0,$130K - $222K(Employer est.),130000.0,222000.0,176000.0,Entry,Other,Milpitas
+"Senior Software Engineer, Backend Python",PayPal3.7,"San Jose, CA",False,3.7,$185K - $230K(Glassdoor est.),185000.0,230000.0,207500.0,Senior,"Python, Backend",San Jose
+"Software Engineer, Dev Productivity",OpenAI4.5,"San Francisco, CA",False,4.5,$210K - $490K(Employer est.),210000.0,490000.0,350000.0,Entry,Other,San Francisco
+Software Engineer (Backend/Fullstack) - Trust and Safety,TikTok3.2,"Seattle, WA",False,3.2,$138K - $238K(Employer est.),138000.0,238000.0,188000.0,Entry,Backend,Seattle
+Software Engineer,Siemens4.1,"Sacramento, CA",False,4.1,$121K - $162K(Employer est.),121000.0,162000.0,141500.0,Entry,Other,Sacramento
+Open Source Research Software Engineer,The University of Chicago4.1,"Chicago, IL",False,4.1,$102K - $129K(Employer est.),102000.0,129000.0,115500.0,Entry,Other,Chicago
+XR / Spatial Computing Software Engineer,Pacific Impact Zone Solutions,"Honolulu, HI",False,3.9,$90K - $130K(Employer est.),90000.0,130000.0,110000.0,Entry,Other,Honolulu
+Software Development Engineer – Operations Engineering,Workday3.9,"Beaverton, OR",False,3.9,$122K - $217K(Employer est.),122000.0,217000.0,169500.0,Entry,Other,Beaverton
+Software Engineer,Savana Inc3.1,"Malvern, PA",False,3.1,$100K - $130K(Employer est.),100000.0,130000.0,115000.0,Entry,Other,Malvern
+Software Engineer,Superior Grocers3.2,"Santa Fe Springs, CA",False,3.2,$120K - $130K(Employer est.),120000.0,130000.0,125000.0,Entry,Other,Santa Fe Springs
+Software Engineer (BMS),T.M. Bier & Associates4.2,"New York, NY",False,4.2,$65K - $95K(Employer est.),65000.0,95000.0,80000.0,Entry,Other,New York
+Finance Technology Software Engineer,Reyes Coca-Cola Bottling3.0,"Niles, IL",False,3.0,$89K - $111K(Employer est.),89000.0,111000.0,100000.0,Entry,Other,Niles
+Entry - Design & Product Engineer (Software),Matthews International Corporation3.1,"Cranberry Twp, PA",False,3.1,Not Disclosed,,,,Entry,Other,Cranberry Twp
+Backend Software Engineer - Trust and Safety - Seattle,TikTok3.2,"Seattle, WA",False,3.2,$138K - $238K(Employer est.),138000.0,238000.0,188000.0,Entry,Backend,Seattle
+Senior Software Systems Engineer,BAE Systems3.7,"Sterling, VA",False,3.7,$130K - $222K(Employer est.),130000.0,222000.0,176000.0,Senior,Other,Sterling
+Backend Software Engineer,Angle Health3.9,"New York, NY",False,3.9,$100K - $240K(Employer est.),100000.0,240000.0,170000.0,Entry,Backend,New York
+Fullstack Software Engineer,Angle Health3.9,"New York, NY",False,3.9,$100K - $240K(Employer est.),100000.0,240000.0,170000.0,Entry,Other,New York
+Robotics Software Engineer,Jenn Nguyen and Friends,"South San Francisco, CA",False,3.9,$200K - $250K(Employer est.),200000.0,250000.0,225000.0,Entry,Other,South San Francisco
+Robotics Software Engineer,Honda Research Institute USA3.7,"San Jose, CA",False,3.7,$108K - $159K(Glassdoor est.),108000.0,159000.0,133500.0,Entry,Other,San Jose
+Senior Backend Engineer - NYC,Rad Hires,"Manhasset, NY",False,3.9,$175K - $200K(Employer est.),175000.0,200000.0,187500.0,Senior,Backend,Manhasset
+Software Engineer,"CGI Group, Inc.3.8","Nashville, TN",False,3.8,$78K - $154K(Employer est.),78000.0,154000.0,116000.0,Entry,Other,Nashville
+Web UI Software Engineer I,Idex Corporation4.0,"Longwood, FL",False,4.0,Not Disclosed,,,,Entry,Other,Longwood
+"Full-Stack Java Engineer, Associate",BlackRock Investments3.9,"San Francisco, CA",False,3.9,$133K - $162K(Employer est.),133000.0,162000.0,147500.0,Entry,Java,San Francisco
+"iOS Engineer, All Levels - NYC",Medal4.3,"New York, NY",False,4.3,$120K - $220K(Employer est.),120000.0,220000.0,170000.0,Entry,Other,New York
+Software Engineer,amdocs3.8,"Atlanta, GA",False,3.8,Not Disclosed,,,,Entry,Other,Atlanta
+"Front End Software Engineer, Leverage Engineering",OpenAI4.5,"San Francisco, CA",False,4.5,$255K - $405K(Employer est.),255000.0,405000.0,330000.0,Entry,Frontend,San Francisco
+Software Engineer I - Req#1113,COCC3.8,"Southington, CT",False,3.8,$75K - $85K(Employer est.),75000.0,85000.0,80000.0,Entry,Other,Southington
+Software Engineer I,Honeywell4.1,"Mason, OH",False,4.1,Not Disclosed,,,,Entry,Other,Mason
+"Software Engineer (Economics, Finance)",INCA Engineering,"Arlington, VA",False,3.9,Not Disclosed,,,,Entry,Other,Arlington
+"Senior Software Engineer, Lab Tools",GeneDx3.1,Remote,True,3.1,$153K - $191K(Employer est.),153000.0,191000.0,172000.0,Senior,Other,Remote
+Sr. Software Engineer,Visa3.8,"Atlanta, TX",False,3.8,$100K - $155K(Employer est.),100000.0,155000.0,127500.0,Senior,Other,Atlanta
+JAVA Software Engineer,BAE Systems3.7,"Alexandria, VA",False,3.7,$147K - $249K(Employer est.),147000.0,249000.0,198000.0,Entry,Java,Alexandria
+Software Engineer - SnowTrail,Snowflake3.9,"Bellevue, WA",False,3.9,$157K - $230K(Employer est.),157000.0,230000.0,193500.0,Entry,Other,Bellevue
+iOS Software Engineer,Examinetics Inc3.5,"Overland Park, KS",False,3.5,$80K - $110K(Employer est.),80000.0,110000.0,95000.0,Entry,Other,Overland Park
+Software Engineer,"LLFlex, LLC2.7","Louisville, KY",False,2.7,$85K - $110K(Employer est.),85000.0,110000.0,97500.0,Entry,Other,Louisville
+"Software Engineer, Defensive Security Agent Engineering",OpenAI4.5,"San Francisco, CA",False,4.5,$255K - $325K(Employer est.),255000.0,325000.0,290000.0,Entry,Other,San Francisco
+(General Hire) Software Engineer Graduate (Advertisement Team) - 2025 Start (BS/MS),TikTok3.2,"San Jose, CA",False,3.2,$114K - $250K(Employer est.),114000.0,250000.0,182000.0,Mid,Other,San Jose
+Senior Software Engineer,General Motors3.6,"Warren, MI",False,3.6,$158K - $242K(Employer est.),158000.0,242000.0,200000.0,Senior,Other,Warren
+Sr Software Engineer,PlayStation Global4.0,"San Mateo, CA",False,4.0,$188K - $282K(Employer est.),188000.0,282000.0,235000.0,Entry,Other,San Mateo
+IT Software Engineer,City of Austin4.0,"Austin, TX",False,4.0,$33.49 - $42.71 Per Hour(Employer est.),69659.2,88836.8,79248.0,Entry,Other,Austin
+Full-Stack Engineer,RIOS Intelligent Machines Inc.4.4,"Menlo Park, CA",False,4.4,$130K - $250K(Employer est.),130000.0,250000.0,190000.0,Entry,Other,Menlo Park
+"Software Engineer – Observability, Co-op",Ancestry3.6,"Lehi, UT",False,3.6,Not Disclosed,,,,Entry,Other,Lehi
+Senior Software Engineer (Front-End),VendTech International3.2,"Savannah, GA",False,3.2,$130K - $150K(Employer est.),130000.0,150000.0,140000.0,Senior,Other,Savannah
+Temporary Software Engineer,GCX Healthcare Solutions3.6,"Franklin, MA",False,3.6,$90K - $110K(Employer est.),90000.0,110000.0,100000.0,Entry,Other,Franklin
+Software Engineer,"Consolidated Consulting, Inc","Norfolk, NE",False,3.9,$50K - $70K(Employer est.),50000.0,70000.0,60000.0,Entry,Other,Norfolk
+Junior Backend Developer,Pixydocs,"Lehi, UT",False,3.9,$60K - $70K(Employer est.),60000.0,70000.0,65000.0,Entry,Backend,Lehi
+Software Engineer I,Cybernet Systems Corporation3.2,"Ann Arbor, MI",False,3.2,Not Disclosed,,,,Entry,Other,Ann Arbor
+Software Engineer,The University of Chicago4.1,"Chicago, IL",False,4.1,$60K - $90K(Employer est.),60000.0,90000.0,75000.0,Entry,Other,Chicago
+Software Engineer - Identity,Disney Entertainment3.9,"New York, NY",False,3.9,$115K - $169K(Employer est.),115000.0,169000.0,142000.0,Entry,Other,New York
+Custom Application Development Summer/Fall Co-Op,Skyworks3.6,"Irvine, CA",False,3.6,$22.50 - $42.00 Per Hour(Employer est.),46800.0,87360.0,67080.0,Entry,Other,Irvine
+Software Engineer,CAE Solutions Corporation4.0,"Burlington, MA",False,4.0,$110K - $150K(Glassdoor est.),110000.0,150000.0,130000.0,Entry,Other,Burlington
+Front End Engineering Apprentice,TTM Technologies3.2,"Santa Ana, CA",False,3.2,$46K - $73K(Employer est.),46000.0,73000.0,59500.0,Entry,Frontend,Santa Ana
+Software Engineer II (Backend),Visa3.8,"Bellevue, WA",False,3.8,$125K - $181K(Employer est.),125000.0,181000.0,153000.0,Entry,Backend,Bellevue
+Software Engineer,Pryon3.0,Remote,True,3.0,$140K - $170K(Employer est.),140000.0,170000.0,155000.0,Entry,Other,Remote
+Software Engineer,Sentinel Devices,"Atlanta, GA",False,3.9,Not Disclosed,,,,Entry,Other,Atlanta
+Software Engineer,VENTURE DATA,"Orem, UT",False,3.9,$75K - $140K(Employer est.),75000.0,140000.0,107500.0,Entry,Other,Orem
+"Associate, Full Stack Engineer",BlackRock Investments3.9,"Atlanta, GA",False,3.9,$81K - $124K(Glassdoor est.),81000.0,124000.0,102500.0,Entry,Full Stack,Atlanta
+Software Development Engineer,Thomson Reuters4.1,"Ann Arbor, MI",False,4.1,$88K - $164K(Employer est.),88000.0,164000.0,126000.0,Entry,Other,Ann Arbor
+Software Engineer,Metrea Management LLC3.4,"Victor, NY",False,3.4,$75K - $90K(Employer est.),75000.0,90000.0,82500.0,Entry,Other,Victor
+Software Systems Engineer I,KNAPP3.2,"Kennesaw, GA",False,3.2,Not Disclosed,,,,Entry,Other,Kennesaw
+Frontend Software Engineer - Streamlit Open Source,Snowflake3.9,"Bellevue, WA",False,3.9,$157K - $230K(Employer est.),157000.0,230000.0,193500.0,Entry,Frontend,Bellevue
+AI Software Development Engineer,INTEL3.9,Arizona,False,3.9,$189K - $266K(Employer est.),189000.0,266000.0,227500.0,Entry,Other,Arizona
+"Software Engineer(Backend), Multimedia Arch Media Platform, Media Tooling - San Jose",TikTok3.2,"San Jose, CA",False,3.2,$145K - $250K(Employer est.),145000.0,250000.0,197500.0,Entry,Backend,San Jose
+SOFTWARE ENGINEER,University of Washington4.2,"Seattle, WA",False,4.2,$8K - $14K(Employer est.),8000.0,14000.0,11000.0,Entry,Other,Seattle
+Java Microservices Engineer with API,R2 Technologies Corporation4.6,"San Francisco, CA",False,4.6,$80.00 - $95.00 Per Hour(Employer est.),166400.0,197600.0,182000.0,Entry,Java,San Francisco
+Infrastructure Software Engineer,Dropbox4.0,Remote,True,4.0,$131K - $267K(Employer est.),131000.0,267000.0,199000.0,Entry,Other,Remote
+Frontend Software Engineer II,TickPick4.2,"New York, NY",False,4.2,$110K - $130K(Employer est.),110000.0,130000.0,120000.0,Mid,Frontend,New York
+Front-End Software Engineer,Audicus3.9,"New York, NY",False,3.9,$110K - $125K(Employer est.),110000.0,125000.0,117500.0,Entry,Other,New York
+Software Technician (Entry-level),Lockheed Martin4.1,"King of Prussia, PA",False,4.1,Not Disclosed,,,,Entry,Other,King of Prussia
+Software Development Engineer,Nexio4.0,"Orem, UT",False,4.0,$90K - $120K(Employer est.),90000.0,120000.0,105000.0,Entry,Other,Orem
+Software Engineer III,TruMinds Technology Inc3.3,Remote,True,3.3,$80.00 - $83.00 Per Hour(Employer est.),166400.0,172640.0,169520.0,Senior,Other,Remote
+Software Engineer- Level 1,M & M Technical Services4.8,"Woodbridge, VA",False,4.8,$80K - $119K(Glassdoor est.),80000.0,119000.0,99500.0,Entry,Other,Woodbridge
+Audio Software Engineer,Valve Software4.6,"Bellevue, WA",False,4.6,$126K - $199K(Glassdoor est.),126000.0,199000.0,162500.0,Entry,Other,Bellevue
+Software Developer 3,ImageTrend3.6,"Eagan, MN",False,3.6,$85K - $110K(Employer est.),85000.0,110000.0,97500.0,Senior,Other,Eagan
+"Software Engineer, Growth",Suno4.4,"Boston, MA",False,4.4,$170K - $240K(Employer est.),170000.0,240000.0,205000.0,Entry,Other,Boston
+SOFTWARE DEVELOPER I,Distribution Management1.8,United States,False,1.8,Not Disclosed,,,,Entry,Other,Remote
+Software Engineer III,NCR3.4,"Atlanta, GA",False,3.4,$100K - $127K(Glassdoor est.),100000.0,127000.0,113500.0,Senior,Other,Atlanta
+Software Engineer - AppleTV App,Apple4.1,"Seattle, WA",False,4.1,$135K - $251K(Employer est.),135000.0,251000.0,193000.0,Entry,Other,Seattle
+Software Engineer,Makrö Gaming Studios,"Kennesaw, GA",False,3.9,$80K - $120K(Employer est.),80000.0,120000.0,100000.0,Entry,Other,Kennesaw
+Senior Software Engineer,Roku3.7,"San Jose, CA",False,3.7,$417K - $617K(Employer est.),417000.0,617000.0,517000.0,Senior,Other,San Jose
+Software Engineer II,Disney Entertainment3.9,"Santa Monica, CA",False,3.9,$109K - $169K(Employer est.),109000.0,169000.0,139000.0,Mid,Other,Santa Monica
+Delivery Excellence - Software Engineering - Associate - Summer / Fall 2025,PRICE WATERHOUSE COOPERS3.8,"Chicago, IL",False,3.8,$72K - $100K(Employer est.),72000.0,100000.0,86000.0,Entry,Other,Chicago
+Entry Level MEAN Stack Developer,Antra3.9,"Sterling, VA",False,3.9,$60K - $70K(Employer est.),60000.0,70000.0,65000.0,Entry,Other,Sterling
+Software Engineer - Backend,Uber3.8,"San Francisco, CA",False,3.8,$167K - $186K(Employer est.),167000.0,186000.0,176500.0,Entry,Backend,San Francisco
+Web Developer II,Choctaw Nation4.0,"Durant, OK",False,4.0,$52K - $75K(Glassdoor est.),52000.0,75000.0,63500.0,Mid,Other,Durant
+"Software Engineer, Quantitative",FanDuel4.0,"New York, NY",False,4.0,$125K - $156K(Employer est.),125000.0,156000.0,140500.0,Entry,Other,New York
+Software Engineer,COLLETTE TRAVEL SERVICE INC4.0,"Pawtucket, RI",False,4.0,Not Disclosed,,,,Entry,Other,Pawtucket
+Machine Learning Software Engineer,RIOS Intelligent Machines Inc.4.4,"Menlo Park, CA",False,4.4,$130K - $250K(Employer est.),130000.0,250000.0,190000.0,Entry,Other,Menlo Park
+Sr. Software Engineer (Back End / Machine Learning),PlayStation Global4.0,"San Mateo, CA",False,4.0,$188K - $282K(Employer est.),188000.0,282000.0,235000.0,Senior,Other,San Mateo
+"Full Stack Software Engineer, Leverage Engineering",OpenAI4.5,"San Francisco, CA",False,4.5,$325K - $405K(Employer est.),325000.0,405000.0,365000.0,Entry,Full Stack,San Francisco
+Software Engineer - Web Dev - Frontend - AI,Keywords Studios3.6,"San Francisco, CA",False,3.6,$50.00 - $80.00 Per Hour(Employer est.),104000.0,166400.0,135200.0,Entry,Frontend,San Francisco
+Software Engineer III,Aflac3.9,Remote,True,3.9,$97K - $140K(Employer est.),97000.0,140000.0,118500.0,Senior,Other,Remote
+Senior Software Engineer - Metadata Snowgrid,Snowflake3.9,"Bellevue, WA",False,3.9,$222K - $339K(Employer est.),222000.0,339000.0,280500.0,Senior,Data,Bellevue
+Software Engineer I,"AmTrust Financial Services, Inc.3.9","Cleveland, OH",False,3.9,$61K - $81K(Glassdoor est.),61000.0,81000.0,71000.0,Entry,Other,Cleveland
+Software Engineer II,"AmTrust Financial Services, Inc.3.9","Cleveland, OH",False,3.9,$79K - $101K(Glassdoor est.),79000.0,101000.0,90000.0,Mid,Other,Cleveland
+Software Engineer,SkySafe2.6,Remote,True,2.6,$145K - $200K(Employer est.),145000.0,200000.0,172500.0,Entry,Other,Remote
+Java MicroServices Developer (Remote),R2 Technologies Corporation4.6,"Atlanta, GA",False,4.6,$70.00 - $80.00 Per Hour(Employer est.),145600.0,166400.0,156000.0,Entry,Java,Atlanta
+Associate Software Engineer - ADS,ASRC Federal3.7,"Moorestown, NJ",False,3.7,$67K - $91K(Glassdoor est.),67000.0,91000.0,79000.0,Entry,Other,Moorestown
+Associate Embedded Software Engineer (Entry Level),Intramotev5.0,"Saint Louis, MO",False,5.0,$50K - $84K(Glassdoor est.),50000.0,84000.0,67000.0,Entry,Other,Saint Louis
+Software Engineer (Full Stack),AbbVie4.0,"Worcester, MA",False,4.0,Not Disclosed,,,,Entry,Full Stack,Worcester
+Software Engineer,PropelSys3.9,"Plano, TX",False,3.9,Not Disclosed,,,,Entry,Other,Plano
+Software Engineer II,Volusia Sheriff's Office3.2,"Daytona Beach, FL",False,3.2,$66K(Employer est.),66000.0,66000.0,66000.0,Mid,Other,Daytona Beach
+Software Engineer,Alltech International4.0,"Augusta, GA",False,4.0,$110K(Employer est.),110000.0,110000.0,110000.0,Entry,Other,Augusta
+AI Software Engineer (Internal Engineering) (Remote),KnowBe43.8,"Clearwater, FL",False,3.8,$90K - $115K(Employer est.),90000.0,115000.0,102500.0,Entry,Other,Clearwater
+Software Engineer,LKQ Corporation3.5,"Nashville, TN",False,3.5,$78K - $116K(Glassdoor est.),78000.0,116000.0,97000.0,Entry,Other,Nashville
+Devops Engineer with AWS,R2 Technologies Corporation4.6,"Atlanta, GA",False,4.6,$75.00 - $80.00 Per Hour(Employer est.),156000.0,166400.0,161200.0,Entry,Other,Atlanta
+"Machine Learning Engineer - Infrastructure, Automated Officiating",the NBA3.7,"New York, NY",False,3.7,$210K - $300K(Employer est.),210000.0,300000.0,255000.0,Entry,Other,New York
+Junior Software Engineer,Cinteot4.9,"Herndon, VA",False,4.9,$70K - $85K(Employer est.),70000.0,85000.0,77500.0,Entry,Other,Herndon
+Software Engineering Manager,PlayStation Global4.0,"San Mateo, CA",False,4.0,$196K - $293K(Employer est.),196000.0,293000.0,244500.0,Entry,Other,San Mateo
+Bioinformatics Software Engineer,AccuraGen2.5,"San Jose, CA",False,2.5,$114K - $187K(Glassdoor est.),114000.0,187000.0,150500.0,Entry,Other,San Jose
+Software Development Engineer in Test - Contractor,PlayStation Global4.0,"San Francisco, CA",False,4.0,$55.00 - $70.00 Per Hour(Employer est.),114400.0,145600.0,130000.0,Entry,Other,San Francisco
+Hiring Entry Level Software Engineer,AG Technologies2.7,"San Diego, CA",False,2.7,$70K - $110K(Glassdoor est.),70000.0,110000.0,90000.0,Entry,Other,San Diego
+Software Engineer Frontend / Fullstack,RainesDev,"New York, NY",False,3.9,$135K - $200K(Employer est.),135000.0,200000.0,167500.0,Entry,Frontend,New York
+Software Engineer II,Tempus3.1,"Chicago, IL",False,3.1,$85K - $130K(Employer est.),85000.0,130000.0,107500.0,Mid,Other,Chicago
+Senior Software Engineer,The University of Chicago4.1,"Chicago, IL",False,4.1,$80K - $120K(Employer est.),80000.0,120000.0,100000.0,Senior,Other,Chicago
+C++ Software Engineer - Trading Services,Millennium Management3.5,"New York, NY",False,3.5,$160K - $250K(Employer est.),160000.0,250000.0,205000.0,Entry,C++,New York
+Software Engineer III,TREW LLC3.2,"West Chester, OH",False,3.2,Not Disclosed,,,,Senior,Other,West Chester
+"Software Engineer, Frontend (All Teams)",DoorDash USA3.6,"San Francisco, CA",False,3.6,$131K - $192K(Employer est.),131000.0,192000.0,161500.0,Entry,Frontend,San Francisco
+AI Software Application Engineer,Syntiant4.8,"Irvine, CA",False,4.8,$175K - $215K(Employer est.),175000.0,215000.0,195000.0,Entry,Other,Irvine
+Full-Stack Engineer,Mintex Technologies,"New York, NY",False,3.9,$150K - $171K(Employer est.),150000.0,171000.0,160500.0,Entry,Other,New York
+"Software Engineer, Web Developer Experience",DoorDash USA3.6,"Seattle, WA",False,3.6,$160K - $235K(Employer est.),160000.0,235000.0,197500.0,Entry,Other,Seattle
+Software Engineer,Innovative Defense Technologies (IDT)4.5,"Arlington, VA",False,4.5,$90K - $184K(Employer est.),90000.0,184000.0,137000.0,Entry,Other,Arlington
+BI Software Design Engineer,Capgemini Engineering3.9,"Washington, DC",False,3.9,$65K - $159K(Employer est.),65000.0,159000.0,112000.0,Entry,Other,Washington
+Software Engineer,Maganti IT Resources4.4,"Waterbury, CT",False,4.4,Not Disclosed,,,,Entry,Other,Waterbury
+Research Software Engineer,New York University4.3,"New York, NY",False,4.3,$100K - $250K(Employer est.),100000.0,250000.0,175000.0,Entry,Other,New York
+Software Engineer III,Young Living Essential Oils3.0,"Lehi, UT",False,3.0,Not Disclosed,,,,Senior,Other,Lehi
+Software Engineer 4,Conde Nast3.3,"New York, NY",False,3.3,$180K(Employer est.),180000.0,180000.0,180000.0,Entry,Other,New York
+Senior Software Engineer - Containers and Integrations,Corelight4.0,"San Francisco, CA",False,4.0,$153K - $188K(Employer est.),153000.0,188000.0,170500.0,Senior,Other,San Francisco
+Backend / Infrastructure Engineer,RainesDev,"San Francisco, CA",False,3.9,$140K - $200K(Employer est.),140000.0,200000.0,170000.0,Entry,Backend,San Francisco
+FMSS - AEM_Software Engineer,Miracle Software Systems3.4,Michigan,False,3.4,Not Disclosed,,,,Entry,Other,Michigan
+Robotics Software Engineer,Wilder Systems3.1,"Austin, TX",False,3.1,$95K - $145K(Employer est.),95000.0,145000.0,120000.0,Entry,Other,Austin
+Sr. Software Engineer-Informatica,CNA Insurance3.9,"Chicago, IL",False,3.9,$99K - $144K(Glassdoor est.),99000.0,144000.0,121500.0,Senior,Other,Chicago
+Deloitte Technology |Product Engineering |Fullstack Software Engineer| Vision360,Deloitte3.9,"Horsham, PA",False,3.9,$93K - $191K(Employer est.),93000.0,191000.0,142000.0,Senior,Other,Horsham
+"Software Engineer, iOS (All Teams)",DoorDash USA3.6,"San Francisco, CA",False,3.6,$131K - $192K(Employer est.),131000.0,192000.0,161500.0,Entry,Other,San Francisco
+Sr Software Engineer (JAVA/IICS/Informatica),CNA Insurance3.9,"Chicago, IL",False,3.9,$72K - $141K(Employer est.),72000.0,141000.0,106500.0,Mid,Java,Chicago
+Software Developer,"Valor Systems, Inc.",Remote,True,3.9,$70K - $125K(Employer est.),70000.0,125000.0,97500.0,Not Specified,Other,Remote
+"Software Developer – Buffalo, NY",National Fuel Gas Company3.5,"Buffalo, NY",False,3.5,$61K - $89K(Employer est.),61000.0,89000.0,75000.0,Not Specified,Other,Buffalo
+Software Developer,ClientServer Technology Solutions1.0,"Iselin, NJ",False,1.0,$86K - $127K(Glassdoor est.),86000.0,127000.0,106500.0,Not Specified,Other,Iselin
+Software Developer,Alivi4.2,"Miami, FL",False,4.2,$64K - $116K(Glassdoor est.),64000.0,116000.0,90000.0,Not Specified,Other,Miami
+Software Developer -.NET,Tricon Residential3.9,"Tustin, CA",False,3.9,$97K - $195K(Employer est.),97000.0,195000.0,146000.0,Not Specified,Other,Tustin
+Software Developer,The Grace Company3.5,"West Jordan, UT",False,3.5,$70K - $90K(Employer est.),70000.0,90000.0,80000.0,Not Specified,Other,West Jordan
+Software Developer,Paycom Payroll Llc3.3,"Oklahoma City, OK",False,3.3,Not Disclosed,,,,Not Specified,Other,Oklahoma City
+Full-Stack Developer,Dillards3.1,"Little Rock, AR",False,3.1,$42K - $71K(Glassdoor est.),42000.0,71000.0,56500.0,Not Specified,Other,Little Rock
+Full Stack developer,Ascendion4.0,"Charlotte, NC",False,4.0,$105K - $110K(Employer est.),105000.0,110000.0,107500.0,Not Specified,Full Stack,Charlotte
+Software Developer,Marceco Ltd3.6,"Grand Rapids, MI",False,3.6,$85K(Employer est.),85000.0,85000.0,85000.0,Not Specified,Other,Grand Rapids
+IT Software Developer Lead,Progressive3.9,Remote,True,3.9,$129K - $150K(Employer est.),129000.0,150000.0,139500.0,Entry,Other,Remote
+Full Stack Developer,eShocan LLC4.6,"Newark, CA",False,4.6,$70.29 - $74.10 Per Hour(Employer est.),146203.2,154128.0,150165.6,Not Specified,Full Stack,Newark
+Front-End Developer,Federated Auto Parts Distributors Inc.3.6,"Staunton, VA",False,3.6,$70K - $110K(Employer est.),70000.0,110000.0,90000.0,Not Specified,Other,Staunton
+Software Developer I,"Data Dimensions, LLC2.9",Wisconsin,False,2.9,Not Disclosed,,,,Entry,Other,Wisconsin
+Full Stack Developer (FLRAA),Mobileappsus,Remote,True,3.9,$45.00 - $47.00 Per Hour(Employer est.),93600.0,97760.0,95680.0,Not Specified,Full Stack,Remote
+JavaScript Developer,"ABCS, Inc.4.1",Arizona,False,4.1,$50.00 - $55.00 Per Hour(Employer est.),104000.0,114400.0,109200.0,Entry,Java,Arizona
+5530 Software Developer,Infoorigin inc3.4,"Pontiac, MI",False,3.4,$46.68 - $49.65 Per Hour(Employer est.),97094.4,103272.0,100183.2,Senior,Other,Pontiac
+Software Developer,Placer County3.7,"Auburn, CA",False,3.7,$46.71 - $58.33 Per Hour(Employer est.),97156.8,121326.4,109241.6,Not Specified,Other,Auburn
+Java Full Stack React JS Developer,Capgemini3.8,"Chicago, IL",False,3.8,$38.83 - $60.68 Per Hour(Employer est.),80766.4,126214.4,103490.4,Not Specified,"Java, Full Stack",Chicago
+Software Developer II,"Jazwares, LLC3.5","Fort Lauderdale, FL",False,3.5,$67K - $97K(Glassdoor est.),67000.0,97000.0,82000.0,Mid,Other,Fort Lauderdale
+Software Developer,iSynergy IT,"California City, CA",False,3.9,$100K - $120K(Employer est.),100000.0,120000.0,110000.0,Not Specified,Other,California City
+Full Stack Software Developer,Vital Services3.4,"Oak Ridge, TN",False,3.4,$75K - $125K(Employer est.),75000.0,125000.0,100000.0,Not Specified,Full Stack,Oak Ridge
+WPF Software Developer,Piper Companies4.0,"Malvern, PA",False,4.0,$110K - $130K(Employer est.),110000.0,130000.0,120000.0,Not Specified,Other,Malvern
+Senior Software Engineer - Pricing & Promotions,CVS Health3.2,"Wellesley, MA",False,3.2,$102K - $284K(Employer est.),102000.0,284000.0,193000.0,Senior,Other,Wellesley
+Software Developer,Luxoft3.8,United States,False,3.8,$115K(Employer est.),115000.0,115000.0,115000.0,Not Specified,Other,Remote
+Junior Developer to build applications using AI,Aneto Software,Remote,True,3.9,$40K - $55K(Employer est.),40000.0,55000.0,47500.0,Entry,Other,Remote
+Full Stack Software Developer- Experienced,Cru3.8,"Orlando, FL",False,3.8,$70K(Employer est.),70000.0,70000.0,70000.0,Entry,Full Stack,Orlando
+Front End Developer,Piper Companies4.0,"Dallas, TX",False,4.0,$55.00 - $63.00 Per Hour(Employer est.),114400.0,131040.0,122720.0,Not Specified,Frontend,Dallas
+Oracle PL/SQL Developer,ProntoDigital LLC,"Boston, MA",False,3.9,$50.00 Per Hour(Employer est.),104000.0,104000.0,104000.0,Not Specified,Other,Boston
+Software Developer,Embrace Education4.5,"Troy, IL",False,4.5,$60K - $89K(Glassdoor est.),60000.0,89000.0,74500.0,Not Specified,Other,Troy
+Lead Software Developer,Support Pets,Remote,True,3.9,$160K - $200K(Employer est.),160000.0,200000.0,180000.0,Not Specified,Other,Remote
+Freelance WordPress Developer,Personify3.5,Remote,True,3.5,$35.00 Per Hour(Employer est.),72800.0,72800.0,72800.0,Not Specified,Other,Remote
+Software Developer,Crown Equipment Corporation3.8,"New Bremen, OH",False,3.8,$71K - $106K(Glassdoor est.),71000.0,106000.0,88500.0,Not Specified,Other,New Bremen
+Software Developer,Summit Technology Holdings LLC3.4,"Plymouth, MA",False,3.4,$70K - $109K(Glassdoor est.),70000.0,109000.0,89500.0,Not Specified,Other,Plymouth
+Fellow Software Development Eng,"Advanced Micro Devices, Inc3.9","Bellevue, WA",False,3.9,$146K - $196K(Glassdoor est.),146000.0,196000.0,171000.0,Not Specified,Other,Bellevue
+Software Developer (Hybrid),Arrowhead Credit Union4.1,"Rancho Cucamonga, CA",False,4.1,$39.55 - $59.33 Per Hour(Employer est.),82264.0,123406.4,102835.2,Entry,Other,Rancho Cucamonga
+Senior Software Engineer I,DigitalOcean3.8,"Boston, MA",False,3.8,$120K - $143K(Employer est.),120000.0,143000.0,131500.0,Senior,Other,Boston
+Full Stack Developer,Sapa Investment Group4.1,"Salt Lake City, UT",False,4.1,$50K - $60K(Employer est.),50000.0,60000.0,55000.0,Not Specified,Full Stack,Salt Lake City
+Software Developer,Verisk4.0,"Jersey City, NJ",False,4.0,Not Disclosed,,,,Not Specified,Other,Jersey City
+Senior Software Developer,BMA Group3.7,"San Juan, PR",False,3.7,$61K - $114K(Glassdoor est.),61000.0,114000.0,87500.0,Senior,Other,San Juan
+Application Developer,University of Arizona4.0,"Tucson, AZ",False,4.0,$59K - $74K(Employer est.),59000.0,74000.0,66500.0,Entry,Other,Tucson
+Software Developer,AssureCare LLC3.0,United States,False,3.0,Not Disclosed,,,,Not Specified,Other,Remote
+Senior Software Developer,SSD Alarm3.7,"Anaheim, CA",False,3.7,$130K(Employer est.),130000.0,130000.0,130000.0,Senior,Other,Anaheim
+Software Developer,Arktek IT solutions,"Chantilly, VA",False,3.9,$98K - $149K(Employer est.),98000.0,149000.0,123500.0,Not Specified,Other,Chantilly
+Sr Software Developer,Capstone Logistics LLC2.6,"Peachtree Corners, GA",False,2.6,$101K - $137K(Glassdoor est.),101000.0,137000.0,119000.0,Not Specified,Other,Peachtree Corners
+Technical Applications Software Developer III,Emory Healthcare3.8,United States,False,3.8,$41.16 - $55.57 Per Hour(Employer est.),85612.79999999999,115585.6,100599.2,Senior,Other,Remote
+Software Developer I,Mascoma Bank3.8,"Portland, ME",False,3.8,Not Disclosed,,,,Entry,Other,Portland
+Software Developer,"ELEVATE ME, INC.","New York, NY",False,3.9,$140K - $154K(Employer est.),140000.0,154000.0,147000.0,Not Specified,Other,New York
+.NET Software Developer,Laansu,"Sterling, VA",False,3.9,$105K - $125K(Employer est.),105000.0,125000.0,115000.0,Not Specified,Other,Sterling
+Full-Stack Website Developer,Metric Marketing,"Saline, MI",False,3.9,$30.00 - $50.00 Per Hour(Employer est.),62400.0,104000.0,83200.0,Entry,Other,Saline
+Node JS Developer Full Time,R2 Technologies Corporation4.6,"Newark, NJ",False,4.6,$75.00 - $80.00 Per Hour(Employer est.),156000.0,166400.0,161200.0,Entry,Other,Newark
+Full Stack Developer,Glacier Analytics LLC,"Orlando, FL",False,3.9,$90K - $110K(Employer est.),90000.0,110000.0,100000.0,Not Specified,Full Stack,Orlando
+Software Developer,People Driven Credit Union3.4,"Southfield, MI",False,3.4,$70K - $86K(Employer est.),70000.0,86000.0,78000.0,Not Specified,Other,Southfield
+Software Engineer,JPMorganChase4.0,"Tampa, FL",False,4.0,$78K - $116K(Glassdoor est.),78000.0,116000.0,97000.0,Entry,Other,Tampa
+Software Developer,Gold Medal Bakery3.0,"Fall River, MA",False,3.0,$95K - $105K(Employer est.),95000.0,105000.0,100000.0,Not Specified,Other,Fall River
+Full Stack Developer-Healthcare,Intelliguard,"Columbus, OH",False,3.9,$170K(Employer est.),170000.0,170000.0,170000.0,Not Specified,Full Stack,Columbus
+Software Developer 3,COMPA Industries Inc4.6,United States,False,4.6,$60.00 - $67.00 Per Hour(Employer est.),124800.0,139360.0,132080.0,Senior,Other,Remote
+Software Developer,"Orion180 Insurance Services, LLC2.9","Melbourne, FL",False,2.9,$100K - $107K(Employer est.),100000.0,107000.0,103500.0,Not Specified,Other,Melbourne
+Front-End Web Developer,Pencor Services2.5,"Palmerton, PA",False,2.5,$46K - $74K(Glassdoor est.),46000.0,74000.0,60000.0,Not Specified,Other,Palmerton
+Software Developer,Western Michigan University4.2,"Kalamazoo, MI",False,4.2,Not Disclosed,,,,Not Specified,Other,Kalamazoo
+SDE 2,Microsoft4.2,"Redmond, WA",False,4.2,$98K - $209K(Employer est.),98000.0,209000.0,153500.0,Mid,Other,Redmond
+Software Developer,Mechanical Licensing Collective3.8,"Nashville, TN",False,3.8,Not Disclosed,,,,Not Specified,Other,Nashville
+Software Developer,Good Place Holdings4.3,"Tallmadge, OH",False,4.3,Not Disclosed,,,,Not Specified,Other,Tallmadge
+Application Developer I,The University Of Denver3.8,"Denver, CO",False,3.8,$68K - $78K(Employer est.),68000.0,78000.0,73000.0,Entry,Other,Denver
+Software Developer II,"Red Roof Franchising, LLC","New Albany, OH",False,3.9,Not Disclosed,,,,Mid,Other,New Albany
+Systems Software Developer - Power Triage,Apple4.1,"San Diego, CA",False,4.1,$116K - $174K(Employer est.),116000.0,174000.0,145000.0,Entry,Other,San Diego
+Software Developer,ABC Legal Services3.1,"Longmont, CO",False,3.1,$90K - $110K(Employer est.),90000.0,110000.0,100000.0,Not Specified,Other,Longmont
+Software Developers,Genisys Technologies2.5,"Plymouth, MN",False,2.5,Not Disclosed,,,,Not Specified,Other,Plymouth
+Software Developer,"PowerPlan, Inc3.6","Atlanta, GA",False,3.6,Not Disclosed,,,,Not Specified,Other,Atlanta
+Software Developer,Nationwide IT Services3.5,"Fairfax, VA",False,3.5,$103K - $147K(Glassdoor est.),103000.0,147000.0,125000.0,Not Specified,Other,Fairfax
+Software Developer,Group Health Cooperative of Eau Claire4.0,"Altoona, WI",False,4.0,Not Disclosed,,,,Not Specified,Other,Altoona
+Software Developer,AAA Texas LLC3.6,"Coppell, TX",False,3.6,$83K - $117K(Glassdoor est.),83000.0,117000.0,100000.0,Not Specified,Other,Coppell
+Full Stack developer,JSR Tech Consulting5.0,"Newark, NJ",False,5.0,$65.00 - $75.00 Per Hour(Employer est.),135200.0,156000.0,145600.0,Not Specified,Full Stack,Newark
+"Software Developer, Junior, Part-Time",DeVillier's Technology Solutions2.9,"Stafford, VA",False,2.9,$75K - $97K(Employer est.),75000.0,97000.0,86000.0,Entry,Other,Stafford
+AWS Fullstack Developer,Delviom LLC4.8,"Reston, VA",False,4.8,$45.00 - $55.00 Per Hour(Employer est.),93600.0,114400.0,104000.0,Not Specified,Other,Reston
+C# Software Developer,Piper Companies4.0,Remote,True,4.0,$62.00 - $65.00 Per Hour(Employer est.),128960.0,135200.0,132080.0,Not Specified,Other,Remote
+Software Technical Support & Developer - Level 1,"Associated Appraisal Consultants, Inc.2.9","Appleton, WI",False,2.9,$50K - $80K(Employer est.),50000.0,80000.0,65000.0,Entry,Other,Appleton
+Remote Software Developer Tech Interviewer: Part Time | Flexible Hours,Zionike LLC,Remote,True,3.9,$3K - $4K(Employer est.),3000.0,4000.0,3500.0,Entry,Other,Remote
+IT Application Developer I/II,Department of Information Technology5.0,"Henrico, VA",False,5.0,$70K - $80K(Employer est.),70000.0,80000.0,75000.0,Mid,Other,Henrico
+Software Developer,Safe-Guard Products International LLC3.9,"Atlanta, GA",False,3.9,$74K - $103K(Glassdoor est.),74000.0,103000.0,88500.0,Not Specified,Other,Atlanta
+Support Software Developer,Mechanical Licensing Collective3.8,"Nashville, TN",False,3.8,$71K - $105K(Glassdoor est.),71000.0,105000.0,88000.0,Not Specified,Other,Nashville
+Software Developer,INVID4.4,"San Juan, PR",False,4.4,$24.00 - $29.00 Per Hour(Employer est.),49920.0,60320.0,55120.0,Not Specified,Other,San Juan
+Junior Application Developer - C#,"Agri Stats, Inc","Fort Wayne, IN",False,3.9,$76K - $103K(Employer est.),76000.0,103000.0,89500.0,Entry,Other,Fort Wayne
+Software Developer,The Management Council of the Ohio Education Computer Network,Ohio,False,3.9,$50K - $68K(Employer est.),50000.0,68000.0,59000.0,Not Specified,Other,Ohio
+Senior Software Developer,State of Washington3.5,"Olympia, WA",False,3.5,$91K - $119K(Employer est.),91000.0,119000.0,105000.0,Senior,Other,Olympia
+Software Developer - Digital,Bamboo Insurance3.4,"Midvale, UT",False,3.4,$130K(Employer est.),130000.0,130000.0,130000.0,Entry,Other,Midvale
+Software Developer,Acuity INC4.0,Virginia,False,4.0,Not Disclosed,,,,Not Specified,Other,Virginia
+Analytical Software Developer,AIG3.7,"Philadelphia, PA",False,3.7,$84K - $112K(Employer est.),84000.0,112000.0,98000.0,Entry,Other,Philadelphia
+Software Developer (Reston),CMC Électronique2.8,"Reston, VA",False,2.8,$93K - $134K(Glassdoor est.),93000.0,134000.0,113500.0,Not Specified,Other,Reston
+Fintech Full Stack Developer,Dwight Funding,"New York, NY",False,3.9,$125K - $170K(Employer est.),125000.0,170000.0,147500.0,Entry,Full Stack,New York
+Software Developer,Link Technologies4.0,United States,False,4.0,$49.05 - $54.12 Per Hour(Employer est.),102024.0,112569.59999999999,107296.79999999999,Not Specified,Other,Remote
+Software Developer,Winthrop Capital Management3.4,"Carmel, IN",False,3.4,Not Disclosed,,,,Not Specified,Other,Carmel
+Software Developer,"Pennington County, SD3.9","Rapid City, SD",False,3.9,$26.98 Per Hour(Employer est.),56118.4,56118.4,56118.4,Not Specified,Other,Rapid City
+Software Engineering Co-op,AS&E2.4,"Billerica, MA",False,2.4,$79K - $126K(Glassdoor est.),79000.0,126000.0,102500.0,Entry,Other,Billerica
+Software Engineering MTS,Salesforce4.1,"Bellevue, WA",False,4.1,$137K - $188K(Employer est.),137000.0,188000.0,162500.0,Entry,Other,Bellevue
+Software Developer,Maccor Inc.,"Tulsa, OK",False,3.9,$80K - $110K(Employer est.),80000.0,110000.0,95000.0,Not Specified,Other,Tulsa
+Front End Developer,R2 Technologies Corporation4.6,"Atlanta, GA",False,4.6,$70.00 - $80.00 Per Hour(Employer est.),145600.0,166400.0,156000.0,Not Specified,Frontend,Atlanta
+Software Developer,Invincible TECH Systems3.6,"Bentonville, AR",False,3.6,$99K(Employer est.),99000.0,99000.0,99000.0,Not Specified,Other,Bentonville
+Software Developer,State of Montana2.7,"Helena, MT",False,2.7,$30.55 - $39.61 Per Hour(Employer est.),63544.0,82388.8,72966.4,Not Specified,Other,Helena
+Senior Software Developer,OSM Worldwide3.5,"Glendale Heights, IL",False,3.5,$110K - $129K(Employer est.),110000.0,129000.0,119500.0,Senior,Other,Glendale Heights
+Software Engineering SMTS,Salesforce4.1,"Bellevue, WA",False,4.1,$190K - $253K(Employer est.),190000.0,253000.0,221500.0,Entry,Other,Bellevue
+Node JS developer,R2 Technologies Corporation4.6,"San Francisco, CA",False,4.6,$70.00 - $80.00 Per Hour(Employer est.),145600.0,166400.0,156000.0,Not Specified,Other,San Francisco
+Software Developer,ENGIE3.9,"Houston, TX",False,3.9,$96K - $135K(Employer est.),96000.0,135000.0,115500.0,Not Specified,Other,Houston
+.NET Software Developer,Tech Army4.4,"Los Alamos, NM",False,4.4,$90.00 - $100.00 Per Hour(Employer est.),187200.0,208000.0,197600.0,Not Specified,Other,Los Alamos
+Software Developer,King & Spalding3.6,"Atlanta, GA",False,3.6,$77K - $120K(Glassdoor est.),77000.0,120000.0,98500.0,Not Specified,Other,Atlanta
+Software Developer,Tyler Technologies3.8,"Lincoln, NE",False,3.8,$58K - $86K(Glassdoor est.),58000.0,86000.0,72000.0,Not Specified,Other,Lincoln
+Software Developer,Active9113.9,"Philomath, OR",False,3.9,$77K - $112K(Employer est.),77000.0,112000.0,94500.0,Not Specified,Other,Philomath
+Infrastructure Software Engineer in Edge Cloud- Seattle,ByteDance3.6,"Seattle, WA",False,3.6,$138K - $238K(Employer est.),138000.0,238000.0,188000.0,Entry,Cloud,Seattle
+Software Developer,SDH Systems4.6,"New York, NY",False,4.6,$94K(Employer est.),94000.0,94000.0,94000.0,Not Specified,Other,New York
+Software Engineer - Backend,Uber3.8,"Seattle, WA",False,3.8,$167K - $186K(Employer est.),167000.0,186000.0,176500.0,Entry,Backend,Seattle
+Senior Software Developer,State of Washington Administrative Office of the Courts3.5,"Olympia, WA",False,3.5,$91K - $119K(Employer est.),91000.0,119000.0,105000.0,Senior,Other,Olympia
+Software Developer,Tyler Technologies3.8,"Jackson, MS",False,3.8,$66K - $101K(Glassdoor est.),66000.0,101000.0,83500.0,Not Specified,Other,Jackson
+Software Developer I,RCN Capital3.1,"South Windsor, CT",False,3.1,$71K - $93K(Glassdoor est.),71000.0,93000.0,82000.0,Entry,Other,South Windsor
+Software Developer,"Axis, LLC","Stamford, CT",False,3.9,$35.00 - $75.00 Per Hour(Employer est.),72800.0,156000.0,114400.0,Not Specified,Other,Stamford
+Software Developer,General Atomics and Affiliated Companies3.9,"Poway, CA",False,3.9,$106K - $190K(Employer est.),106000.0,190000.0,148000.0,Not Specified,Other,Poway
+Software Developer,Esker U.S4.4,"Middleton, WI",False,4.4,$90K - $120K(Employer est.),90000.0,120000.0,105000.0,Not Specified,Other,Middleton
+Reporting Developer,adroitts4.2,"Detroit, MI",False,4.2,$45.00 - $50.00 Per Hour(Employer est.),93600.0,104000.0,98800.0,Entry,Other,Detroit
+Software Developer Graduate (Routing Verification & Emulation) - 2025 Start (PhD),ByteDance3.6,"Seattle, WA",False,3.6,$138K - $238K(Employer est.),138000.0,238000.0,188000.0,Mid,Other,Seattle
+Software Developer,Taylor Corporation3.1,Minnesota,False,3.1,Not Disclosed,,,,Not Specified,Other,Minnesota
+SOFTWARE DEVELOPER,KORMELI,"Burlington, MA",False,3.9,Not Disclosed,,,,Not Specified,Other,Burlington
+"Software Developer, TradePMR",Robinhood3.8,United States,False,3.8,$140K - $165K(Employer est.),140000.0,165000.0,152500.0,Not Specified,Other,Remote
+Software Developer II,Brown & Brown Insurance3.8,"Manasquan, NJ",False,3.8,$90K - $100K(Employer est.),90000.0,100000.0,95000.0,Mid,Other,Manasquan
+.NET Developer 1 (689808),R2 Technologies Corporation4.6,"Atlanta, GA",False,4.6,$75.00 - $85.00 Per Hour(Employer est.),156000.0,176800.0,166400.0,Entry,Other,Atlanta
+Software Developer I,Symple Lending4.4,"Tampa, FL",False,4.4,$66K - $87K(Glassdoor est.),66000.0,87000.0,76500.0,Entry,Other,Tampa
+Python Developer,Amex4.1,"Phoenix, AZ",False,4.1,$70K - $135K(Employer est.),70000.0,135000.0,102500.0,Not Specified,Python,Phoenix
+Mid-Level Software Developer,Refuel Corporate3.2,"North Charleston, SC",False,3.2,$59K - $94K(Glassdoor est.),59000.0,94000.0,76500.0,Mid,Other,North Charleston
+Software Developer,Veenus Infotechs,"Peoria, IL",False,3.9,$40.00 - $41.00 Per Hour(Employer est.),83200.0,85280.0,84240.0,Not Specified,Other,Peoria
+"Software Developer, Android",EDAG Inc3.6,"Fremont, CA",False,3.6,$98K - $166K(Glassdoor est.),98000.0,166000.0,132000.0,Entry,Other,Fremont
+Software Developer,S. J. Rollins Technologies3.5,"Bangor, ME",False,3.5,$57K - $98K(Glassdoor est.),57000.0,98000.0,77500.0,Not Specified,Other,Bangor
+Software Developer,Gate 1 Ltd3.3,"Fort Washington, PA",False,3.3,$68K - $97K(Glassdoor est.),68000.0,97000.0,82500.0,Not Specified,Other,Fort Washington
+Front End Specialist Full Time,"Ollies Bargain Outlet, Inc.3.0","Farmington, MI",False,3.0,$29K - $37K(Glassdoor est.),29000.0,37000.0,33000.0,Entry,Frontend,Farmington
+"Software Engineer, Apple Services Engineering",Apple4.1,"Seattle, WA",False,4.1,$135K - $251K(Employer est.),135000.0,251000.0,193000.0,Entry,Other,Seattle
+Software Engineering SMTS,Salesforce4.1,"San Francisco, CA",False,4.1,$158K - $237K(Employer est.),158000.0,237000.0,197500.0,Entry,Other,San Francisco
+Report Developer I,Desert Oasis Healthcare3.5,"Palm Desert, CA",False,3.5,$38.14 - $47.00 Per Hour(Employer est.),79331.2,97760.0,88545.6,Entry,Other,Palm Desert
+.NET Software Developer,BAE Systems3.7,"Chantilly, VA",False,3.7,$130K - $222K(Employer est.),130000.0,222000.0,176000.0,Not Specified,Other,Chantilly
+Software Developer (Provisioning),National Information Solutions Cooperative (NISC)3.6,"Bismarck, ND",False,3.6,$57K - $90K(Glassdoor est.),57000.0,90000.0,73500.0,Entry,Other,Bismarck
+Junior Software Developer,Delmarva Digital,"Laurel, DE",False,3.9,$58K - $97K(Glassdoor est.),58000.0,97000.0,77500.0,Entry,Other,Laurel
+Software Developer (contract),KPMG3.7,"Boston, MA",False,3.7,$80.00 - $110.00 Per Hour(Employer est.),166400.0,228800.0,197600.0,Not Specified,Other,Boston
+Software Developer,ABB4.0,"Senatobia, MS",False,4.0,$55K - $89K(Glassdoor est.),55000.0,89000.0,72000.0,Not Specified,Other,Senatobia
+Frontend Software Developer,Tampa Bay Rays4.5,"Saint Petersburg, FL",False,4.5,$78K - $123K(Glassdoor est.),78000.0,123000.0,100500.0,Not Specified,Frontend,Saint Petersburg
+Senior Software Developer,InCommodities US3.7,"Austin, TX",False,3.7,$137K - $147K(Employer est.),137000.0,147000.0,142000.0,Senior,Other,Austin
+Data and Backend Developer,Plexuss4.7,"Walnut Creek, CA",False,4.7,$70K(Employer est.),70000.0,70000.0,70000.0,Not Specified,"Backend, Data",Walnut Creek
+Software Developer,Hybrid Promtions LLC2.7,"Lewis Center, OH",False,2.7,$80K - $85K(Employer est.),80000.0,85000.0,82500.0,Not Specified,Other,Lewis Center
+Mid-Level Software Developer,"Avion Solutions, Inc.4.3","Huntsville, AL",False,4.3,$71K - $100K(Glassdoor est.),71000.0,100000.0,85500.0,Mid,Other,Huntsville
+Web Developer,Partify Inc.,"Fraser, MI",False,3.9,$25.00 Per Hour(Employer est.),52000.0,52000.0,52000.0,Not Specified,Other,Fraser
+Frontend Developer - Developer Publications,Apple4.1,"Cupertino, CA",False,4.1,$143K - $264K(Employer est.),143000.0,264000.0,203500.0,Entry,Frontend,Cupertino
+Software developer in test,PayPal3.7,"San Jose, CA",False,3.7,$61K - $147K(Employer est.),61000.0,147000.0,104000.0,Entry,Other,San Jose
+Full stack Developer,R2 Technologies Corporation4.6,"Atlanta, GA",False,4.6,$65.00 - $75.00 Per Hour(Employer est.),135200.0,156000.0,145600.0,Not Specified,Full Stack,Atlanta
+Web Developer,Hoffmann Oberweis Dairy,"North Aurora, IL",False,3.9,$85K - $110K(Employer est.),85000.0,110000.0,97500.0,Not Specified,Other,North Aurora
+Software Developer,PACS5.0,"Farmington, UT",False,5.0,$54K - $89K(Glassdoor est.),54000.0,89000.0,71500.0,Not Specified,Other,Farmington
+Full Stack Software Developer,PRO IT USA5.0,"Seattle, WA",False,5.0,Not Disclosed,,,,Not Specified,Full Stack,Seattle
+Software Developer,Cincinnati Incorporated4.4,"Harrison, OH",False,4.4,$68K - $123K(Employer est.),68000.0,123000.0,95500.0,Not Specified,Other,Harrison
+Software Engineer 5 - Ads Inventory Management & Forecasting,Netflix4.2,Remote,True,4.2,$100K - $720K(Employer est.),100000.0,720000.0,410000.0,Entry,Other,Remote
+Software Developer - Junior Level,"Zekiah Technologies, Inc4.7","Dahlgren, VA",False,4.7,$61K - $93K(Glassdoor est.),61000.0,93000.0,77000.0,Entry,Other,Dahlgren
+Software Developer,Binary Computer Int'l Corp4.1,"South Plainfield, NJ",False,4.1,$102K(Employer est.),102000.0,102000.0,102000.0,Not Specified,Other,South Plainfield
+Java Developer,NS2 Mission4.0,"Chantilly, VA",False,4.0,$110K - $157K(Glassdoor est.),110000.0,157000.0,133500.0,Not Specified,Java,Chantilly
+Software Developer,GenuineIT4.7,"Houston, TX",False,4.7,Not Disclosed,,,,Not Specified,Other,Houston
+Developer Apprentice (Remote From Anywhere in Colorado),State of Colorado3.8,"Denver, CO",False,3.8,$45K - $47K(Employer est.),45000.0,47000.0,46000.0,Entry,Other,Denver
+Senior Software Developer,"Keysight Technologies, Inc.4.0","Calabasas, CA",False,4.0,$139K - $232K(Employer est.),139000.0,232000.0,185500.0,Senior,Other,Calabasas
+Software Developer,Parsons4.0,Remote,True,4.0,$101K - $190K(Employer est.),101000.0,190000.0,145500.0,Not Specified,Other,Remote
+Software Developer II,Visual Computer Solutions5.0,"Freehold, NJ",False,5.0,$85K - $95K(Employer est.),85000.0,95000.0,90000.0,Mid,Other,Freehold
+Windows Forms Software Developer,"Opus Inspection,Inc3.5","Tucson, AZ",False,3.5,$90K - $110K(Employer est.),90000.0,110000.0,100000.0,Entry,Other,Tucson
+Software Developer,Riverside Research Institute4.0,"Fairfax, VA",False,4.0,$81K - $149K(Employer est.),81000.0,149000.0,115000.0,Not Specified,Other,Fairfax
+"Software Engineer, Backend (Knowledge Innovation)",OpenAI4.5,"San Francisco, CA",False,4.5,$325K(Employer est.),325000.0,325000.0,325000.0,Entry,Backend,San Francisco
+"Software Developer 3-2967-Los Alamos, NM",OLH Inc.5.0,"Los Alamos, NM",False,5.0,$64K - $115K(Glassdoor est.),64000.0,115000.0,89500.0,Senior,Other,Los Alamos
+Software Engineering Co-op (Fall 2025),Intuitive Surgical4.4,"Durham, NC",False,4.4,$45.00 - $72.00 Per Hour(Employer est.),93600.0,149760.0,121680.0,Mid,Other,Durham
+Software Developer,WinTech,"Monett, MO",False,3.9,$62K - $100K(Glassdoor est.),62000.0,100000.0,81000.0,Not Specified,Other,Monett
+Junior Web Developer,Majority Strategies LLC3.0,"Jacksonville, FL",False,3.0,$60K - $70K(Employer est.),60000.0,70000.0,65000.0,Entry,Other,Jacksonville
+Junior Software Engineer,"General Dynamics Mission Systems, Inc3.9","Dedham, MA",False,3.9,$90K - $93K(Employer est.),90000.0,93000.0,91500.0,Entry,Other,Dedham
+Entry to Mid-Level Programmer,RAM Mutual Insurance Company,"Esko, MN",False,3.9,$50K - $60K(Employer est.),50000.0,60000.0,55000.0,Entry,Other,Esko
+Software Developer,Saalex Solutions Inc.3.8,"Point Mugu NAWC, CA",False,3.8,$95K - $150K(Employer est.),95000.0,150000.0,122500.0,Not Specified,Other,Point Mugu NAWC
+Software Developer,Fibersmith Software2.9,"Columbia, MO",False,2.9,$64K - $101K(Glassdoor est.),64000.0,101000.0,82500.0,Not Specified,Other,Columbia
+Software Developer,C Squared Systems LLC2.6,"Auburn, NH",False,2.6,Not Disclosed,,,,Not Specified,Other,Auburn
+Odoo Software Developer - 1540,Bhired5.0,"Brooklyn, NY",False,5.0,$80K - $100K(Employer est.),80000.0,100000.0,90000.0,Entry,Other,Brooklyn
+"Software Developer, Server Side Technologies",Jun Group4.0,"New York, NY",False,4.0,$120K - $150K(Employer est.),120000.0,150000.0,135000.0,Entry,Other,New York
+Senior Software Engineers,CloudIQ3.9,"Issaquah, WA",False,3.9,$191K(Employer est.),191000.0,191000.0,191000.0,Senior,Other,Issaquah
+Software Developer,The AME Group3.1,"South Bend, IN",False,3.1,$72K - $107K(Glassdoor est.),72000.0,107000.0,89500.0,Not Specified,Other,South Bend
+Software Developer,CEDENT5.0,Florida,False,5.0,Not Disclosed,,,,Not Specified,Other,Florida
+Junior Software Developer,Bowhead3.7,"Colorado Springs, CO",False,3.7,$115K - $140K(Employer est.),115000.0,140000.0,127500.0,Entry,Other,Colorado Springs
+Software Developer,Krueger International Incorporated3.7,"Green Bay, WI",False,3.7,$89K - $133K(Glassdoor est.),89000.0,133000.0,111000.0,Not Specified,Other,Green Bay
+Software Developer,Axiom Technologies,"Reston, VA",False,3.9,$125K - $195K(Employer est.),125000.0,195000.0,160000.0,Not Specified,Other,Reston
+Embedded Software Developer,Genova Technologies3.1,"Cedar Rapids, IA",False,3.1,$74K - $107K(Glassdoor est.),74000.0,107000.0,90500.0,Not Specified,Other,Cedar Rapids
+Software Developer,Fullsteam3.4,Georgia,False,3.4,Not Disclosed,,,,Not Specified,Other,Georgia
+Software Developer,9Logic Technologies4.2,"Redmond, WA",False,4.2,$81K - $111K(Glassdoor est.),81000.0,111000.0,96000.0,Not Specified,Other,Redmond
+Software Developer,GOCOOL4.5,"Puyallup, WA",False,4.5,$73K - $113K(Glassdoor est.),73000.0,113000.0,93000.0,Not Specified,Other,Puyallup
+SOFTWARE DEVELOPER,Gannu Software5.0,"Schaumburg, IL",False,5.0,Not Disclosed,,,,Not Specified,Other,Schaumburg
+Jr. Web Software Developer,TechSur Solutions4.2,"Reston, VA",False,4.2,$76K - $109K(Glassdoor est.),76000.0,109000.0,92500.0,Not Specified,Other,Reston
+Software Developer,Off Duty Management1.9,"Katy, TX",False,1.9,$100K - $110K(Employer est.),100000.0,110000.0,105000.0,Not Specified,Other,Katy
+Devops Software Developer,Oracle3.7,"Pleasanton, CA",False,3.7,$134K - $183K(Glassdoor est.),134000.0,183000.0,158500.0,Not Specified,Other,Pleasanton
+Java Full Stack Developer - AEM,R2 Technologies Corporation4.6,"Pleasanton, KS",False,4.6,$80.00 - $95.00 Per Hour(Employer est.),166400.0,197600.0,182000.0,Not Specified,"Java, Full Stack",Pleasanton
+Software Developer,Better Direct1.0,"Tempe, AZ",False,1.0,$75K - $117K(Glassdoor est.),75000.0,117000.0,96000.0,Not Specified,Other,Tempe
+Software Developer,Arvato USA LLC3.4,"Valencia, CA",False,3.4,Not Disclosed,,,,Not Specified,Other,Valencia
+Front-End Developer,"Coffey Communications, Inc.3.2","Walla Walla, WA",False,3.2,$70K - $90K(Employer est.),70000.0,90000.0,80000.0,Not Specified,Other,Walla Walla
+Software Developer,HS Solutions3.7,"San Ramon, CA",False,3.7,$181K(Employer est.),181000.0,181000.0,181000.0,Not Specified,Other,San Ramon
+Bioinformatics Software Developer,Association of Biomolecular Resource Facilities,"El Monte, CA",False,3.9,$82K - $120K(Employer est.),82000.0,120000.0,101000.0,Entry,Other,El Monte
+"Senior Software Development Engineer, Developer Experience",Remitly3.8,"Seattle, WA",False,3.8,$180K - $225K(Employer est.),180000.0,225000.0,202500.0,Senior,Other,Seattle
+Software Developer,Ingellicom4.0,United States,False,4.0,$55K(Employer est.),55000.0,55000.0,55000.0,Not Specified,Other,Remote
+Software Developer 3,Almac Group3.5,"Lansdale, PA",False,3.5,Not Disclosed,,,,Senior,Other,Lansdale
+Programmer/Software Developer - (Fully Remote - Remote/Hybrid/In-Office/Flexible),"National Field Representatives, LLC2.2","Claremont, NH",False,2.2,$48K - $89K(Glassdoor est.),48000.0,89000.0,68500.0,Entry,Other,Claremont
+Software Developer,DCS Corp4.3,Maryland,False,4.3,$65K - $80K(Employer est.),65000.0,80000.0,72500.0,Not Specified,Other,Maryland
+Software/Application Developer,"Technical Intelligence Solutions, LLC","Arlington, VA",False,3.9,$125K - $135K(Employer est.),125000.0,135000.0,130000.0,Entry,Other,Arlington
+Software Engineer - Platform,Oumi,"Seattle, WA",False,3.9,$140K - $220K(Employer est.),140000.0,220000.0,180000.0,Entry,Other,Seattle
+Software Engineer - Apple TV App,Apple4.1,"San Francisco, CA",False,4.1,$143K - $264K(Employer est.),143000.0,264000.0,203500.0,Entry,Other,San Francisco
+Software Developer / Analyst,Edwards Lifesciences3.9,"Naperville, IL",False,3.9,$106K - $149K(Employer est.),106000.0,149000.0,127500.0,Not Specified,Other,Naperville
+Software Engineer III,Blue Origin3.2,"Seattle, WA",False,3.2,$148K - $207K(Employer est.),148000.0,207000.0,177500.0,Senior,Other,Seattle
+Software Developer,Numerix4.3,"Fair Lawn, NJ",False,4.3,$59K - $99K(Glassdoor est.),59000.0,99000.0,79000.0,Not Specified,Other,Fair Lawn
+Full Stack Software Developer III,Northside Hospital4.3,"Atlanta, GA",False,4.3,Not Disclosed,,,,Senior,Full Stack,Atlanta
+Software Developer Senior,Moss Adams4.0,"Seattle, WA",False,4.0,$87K - $133K(Employer est.),87000.0,133000.0,110000.0,Senior,Other,Seattle
+Software Developer (contract),KPMG3.7,"New York, NY",False,3.7,$60.00 - $94.00 Per Hour(Employer est.),124800.0,195520.0,160160.0,Not Specified,Other,New York
+"Frontend Software Engineer, Global E-commerce Warehousing",TikTok3.2,"Seattle, WA",False,3.2,$138K - $238K(Employer est.),138000.0,238000.0,188000.0,Entry,Frontend,Seattle
+"Product Developer, (Hybrid, WA)",Nordstrom Inc3.6,"Seattle, WA",False,3.6,$70K - $132K(Employer est.),70000.0,132000.0,101000.0,Entry,Other,Seattle
+.Net Software Developer II,Merrick Bank3.3,"South Jordan, UT",False,3.3,$92K - $102K(Employer est.),92000.0,102000.0,97000.0,Mid,Other,South Jordan
+MuleSoft Software developer,Intone Networks4.2,"Dearborn, MI",False,4.2,$93K - $118K(Glassdoor est.),93000.0,118000.0,105500.0,Not Specified,Other,Dearborn
+Software Application Developer,"GEM Technologies, Inc.4.5","Los Alamos, NM",False,4.5,$110K - $135K(Employer est.),110000.0,135000.0,122500.0,Entry,Other,Los Alamos
+Software Developer_HR – Code AS,S2 IT Group4.2,"Alpharetta, GA",False,4.2,Not Disclosed,,,,Not Specified,Other,Alpharetta
+Software Developer,Buffalo Rock3.1,"Birmingham, AL",False,3.1,Not Disclosed,,,,Not Specified,Other,Birmingham
+Machine Control Software Developer,Harland Medical Systems2.7,"Eden Prairie, MN",False,2.7,$90K - $120K(Employer est.),90000.0,120000.0,105000.0,Entry,Other,Eden Prairie
+Software Developer,Florida Virtual School4.1,Florida,False,4.1,$77K - $138K(Employer est.),77000.0,138000.0,107500.0,Not Specified,Other,Florida
+Software Developer,U-Haul3.4,"Phoenix, AZ",False,3.4,Not Disclosed,,,,Not Specified,Other,Phoenix
+Sr. Software Developer,Stanford University4.3,"Stanford, CA",False,4.3,$160K - $191K(Employer est.),160000.0,191000.0,175500.0,Senior,Other,Stanford
+Software Provisioning Specialist,Proofpoint3.7,"Draper, UT",False,3.7,$23.98 - $46.43 Per Hour(Employer est.),49878.4,96574.4,73226.4,Entry,Other,Draper
+Application Developer,Info origin Inc3.4,"Topeka, KS",False,3.4,$38.00 - $40.00 Per Hour(Employer est.),79040.0,83200.0,81120.0,Entry,Other,Topeka
+Software Developer/Analyst 3 K,Knight Transportation3.3,"Phoenix, AZ",False,3.3,$100K - $150K(Employer est.),100000.0,150000.0,125000.0,Senior,Other,Phoenix
+Software Developer - Junior,Enteractive4.4,Illinois,False,4.4,Not Disclosed,,,,Entry,Other,Illinois
+Software Developer (Hybrid),Hynes & Khater4.0,"Houston, TX",False,4.0,$66K - $106K(Glassdoor est.),66000.0,106000.0,86000.0,Entry,Other,Houston
+Software Developer,MITER Brands3.8,"Tacoma, WA",False,3.8,$90K - $113K(Employer est.),90000.0,113000.0,101500.0,Not Specified,Other,Tacoma
+UI Developer,R2 Technologies Corporation4.6,"San Jose, CA",False,4.6,$70.00 - $80.00 Per Hour(Employer est.),145600.0,166400.0,156000.0,Entry,Other,San Jose
+JAVA Software Developer - ALL LEVELS,QVine Corporation3.9,"Herndon, VA",False,3.9,$85K - $122K(Glassdoor est.),85000.0,122000.0,103500.0,Not Specified,Java,Herndon
+ReactJS Developer - Candidates from Bay Area (SFO),N2P Systems Inc.,"San Jose, CA",False,3.9,$55.00 Per Hour(Employer est.),114400.0,114400.0,114400.0,Entry,Other,San Jose
+Senior Software Developer,COUNTRY Financial3.8,"Bloomington, IL",False,3.8,$94K - $129K(Employer est.),94000.0,129000.0,111500.0,Senior,Other,Bloomington
+"Jr. Software Developer - HSV, AL","Davidson Technologies, Inc.4.3","Huntsville, AL",False,4.3,$60K - $93K(Glassdoor est.),60000.0,93000.0,76500.0,Not Specified,Other,Huntsville
+Software Developer,BAE Systems3.7,"Springfield, VA",False,3.7,$116K - $197K(Employer est.),116000.0,197000.0,156500.0,Not Specified,Other,Springfield
+Software Application Developer,A-TEK Inc.4.8,"McLean, VA",False,4.8,$79K - $106K(Glassdoor est.),79000.0,106000.0,92500.0,Entry,Other,McLean
+Backend Software Developer (C#/.NET | AWS),CEDENT5.0,"Omaha, NE",False,5.0,$32.00 Per Hour(Employer est.),66560.0,66560.0,66560.0,Not Specified,Backend,Omaha
+Junior Programmer,Advanced Behavioral Health3.6,"Middletown, CT",False,3.6,Not Disclosed,,,,Entry,Other,Middletown
+Software Developer,INGELLICOM4.0,"Guaynabo, PR",False,4.0,Not Disclosed,,,,Not Specified,Other,Guaynabo
+Software Developer,ITC Defense4.6,"Philadelphia, PA",False,4.6,$60K - $70K(Employer est.),60000.0,70000.0,65000.0,Not Specified,Other,Philadelphia
+(978) Senior AEM Backend Developer,Nearsure4.1,Remote,True,4.1,Not Disclosed,,,,Senior,Backend,Remote
+"Software Engineer, Frontend (Consumer - Trading)",Coinbase3.8,Remote,True,3.8,$152K - $179K(Employer est.),152000.0,179000.0,165500.0,Entry,Frontend,Remote
+Junior Software Developer,REGENCY IHS ADMINISTRATIVE SERVICES LLC2.9,"Victoria, TX",False,2.9,Not Disclosed,,,,Entry,Other,Victoria
+Full Stack Software Developer,FBW Manufacturing LLC,"Moncks Corner, SC",False,3.9,Not Disclosed,,,,Not Specified,Full Stack,Moncks Corner
+Jr. Software Developer,Air Combat Effectiveness Consulting5.0,"Lexington Park, MD",False,5.0,$77K - $100K(Employer est.),77000.0,100000.0,88500.0,Not Specified,Other,Lexington Park
+"System Software Engineer, Diagnostics & Test",OpenAI4.5,"San Francisco, CA",False,4.5,$310K - $465K(Employer est.),310000.0,465000.0,387500.0,Entry,Other,San Francisco
+Software Developer,Enteractive4.4,Illinois,False,4.4,Not Disclosed,,,,Not Specified,Other,Illinois
+Software Developer,Hotlines Inc.,"Council Bluffs, IA",False,3.9,$65K - $95K(Employer est.),65000.0,95000.0,80000.0,Not Specified,Other,Council Bluffs
+Application/Software Developer,Illumination Works LLC3.6,"Beavercreek, OH",False,3.6,Not Disclosed,,,,Entry,Other,Beavercreek
+Software Developer,Southern Research2.7,"Birmingham, AL",False,2.7,$66K - $92K(Glassdoor est.),66000.0,92000.0,79000.0,Not Specified,Other,Birmingham
+ReactJS Fullstack Developer,Capgemini3.8,"Chicago, IL",False,3.8,$68K - $109K(Employer est.),68000.0,109000.0,88500.0,Not Specified,Other,Chicago
+iOS Engineer - Software Developer / Engineer,R2 Technologies Corporation4.6,"Alpharetta, GA",False,4.6,$80.00 - $90.00 Per Hour(Employer est.),166400.0,187200.0,176800.0,Entry,Other,Alpharetta
+Software Developer,"D. E. Shaw & Co., L.P.4.1","New York, NY",False,4.1,$225K(Employer est.),225000.0,225000.0,225000.0,Not Specified,Other,New York
+Software Developer,Info Image1.8,"Brisbane, CA",False,1.8,$83K - $133K(Glassdoor est.),83000.0,133000.0,108000.0,Not Specified,Other,Brisbane
+"Director, Software Engineering",Mastercard4.2,"O Fallon, MO",False,4.2,$165K - $264K(Employer est.),165000.0,264000.0,214500.0,Entry,Other,O Fallon
+Geospatial Software Developer,Argonne National Laboratory4.3,"Lemont, IL",False,4.3,$75K - $119K(Employer est.),75000.0,119000.0,97000.0,Entry,Other,Lemont
+Software Developer,CUBRC INC4.0,"Rome, NY",False,4.0,$80K - $130K(Employer est.),80000.0,130000.0,105000.0,Not Specified,Other,Rome
+Software Developer (ISI03),CipherQore Solutions4.3,"Prairieville, LA",False,4.3,Not Disclosed,,,,Senior,Other,Prairieville
+Senior Software Engineer I - Developer tooling,WALGREENS3.1,"Deerfield, IL",False,3.1,$103K - $164K(Employer est.),103000.0,164000.0,133500.0,Entry,Other,Deerfield
+Application/Reports Developer,Community Renewal Team2.8,"Hartford, CT",False,2.8,$32.31 Per Hour(Employer est.),67204.8,67204.8,67204.8,Entry,Other,Hartford
+Senior Software Developer,Bernard Health2.6,"Nashville, TN",False,2.6,$90K - $120K(Employer est.),90000.0,120000.0,105000.0,Senior,Other,Nashville
+Networks Software Developer,Elliot Partnership3.3,"New York, NY",False,3.3,$300K - $500K(Employer est.),300000.0,500000.0,400000.0,Not Specified,Other,New York
+Associate Software Developer,Patelco Credit Union3.5,"Dublin, CA",False,3.5,$35.09 - $41.29 Per Hour(Employer est.),72987.20000000001,85883.2,79435.20000000001,Entry,Other,Dublin
+Application Software Developer,New Horizons Behavioral Health3.7,"Columbus, GA",False,3.7,$51K - $66K(Employer est.),51000.0,66000.0,58500.0,Entry,Other,Columbus
+A428-Python developer rec 5208,FHR3.5,"Phoenix, AZ",False,3.5,$55.00 - $65.00 Per Hour(Employer est.),114400.0,135200.0,124800.0,Mid,Python,Phoenix
+Software Developer,ETek IT Services3.6,"Schaumburg, IL",False,3.6,$90.00 - $100.00 Per Hour(Employer est.),187200.0,208000.0,197600.0,Not Specified,Other,Schaumburg
+"Backend Software Engineer, Global Streaming Meida - LiveEvent",TikTok3.2,"Seattle, WA",False,3.2,$138K - $238K(Employer est.),138000.0,238000.0,188000.0,Entry,Backend,Seattle
+"Software Developer, Bellevue, Washington",Xplore Inc.3.2,"Bellevue, WA",False,3.2,$120K - $140K(Employer est.),120000.0,140000.0,130000.0,Entry,Other,Bellevue
+Frontend Software Developer- React/Redux,Cognition Corporation4.7,"Lexington, MA",False,4.7,$73K - $107K(Glassdoor est.),73000.0,107000.0,90000.0,Not Specified,Frontend,Lexington
+"Software Engineer, 3D Tooling, Simulation",Tesla3.5,"Palo Alto, CA",False,3.5,$132K - $330K(Employer est.),132000.0,330000.0,231000.0,Senior,Other,Palo Alto
+Sr. React js Developers,R2 Technologies Corporation4.6,"Atlanta, GA",False,4.6,$70.00 - $80.00 Per Hour(Employer est.),145600.0,166400.0,156000.0,Senior,Other,Atlanta
+Software Development Engineer,"Twitch Interactive, Inc.3.6","Seattle, WA",False,3.6,$100K - $200K(Employer est.),100000.0,200000.0,150000.0,Entry,Other,Seattle
+Software Developer,Open Access Technology International3.1,"Minneapolis, MN",False,3.1,$55K - $75K(Employer est.),55000.0,75000.0,65000.0,Not Specified,Other,Minneapolis
+Software Developer (Kubernetes),Leidos3.8,"San Antonio, TX",False,3.8,$105K - $189K(Employer est.),105000.0,189000.0,147000.0,Not Specified,Other,San Antonio
+Devops - Software Developer / Engineer,R2 Technologies Corporation4.6,"Alpharetta, GA",False,4.6,$65.00 - $70.00 Per Hour(Employer est.),135200.0,145600.0,140400.0,Entry,Other,Alpharetta
+Mid-Level Software Developer,TDI Technologies4.6,"San Diego, CA",False,4.6,$105K - $115K(Employer est.),105000.0,115000.0,110000.0,Mid,Other,San Diego
+Front End Developer,Check Out My Card LLC,"Auburn, WA",False,3.9,$120K - $150K(Employer est.),120000.0,150000.0,135000.0,Not Specified,Frontend,Auburn
+Software Developer,Oracle3.7,"Pleasanton, CA",False,3.7,Not Disclosed,,,,Not Specified,Other,Pleasanton
+Mid-Level Back-End Software Developer,Mimir Security Inc.,"Frederick, MD",False,3.9,$80K - $108K(Employer est.),80000.0,108000.0,94000.0,Mid,Other,Frederick
+Software Developer,Kia Technologies Inc,United States,False,3.9,$121K(Employer est.),121000.0,121000.0,121000.0,Not Specified,Other,Remote
+Software Development Specialist 2 - PN: 20066939 & 20066963,State of Ohio Jobs3.6,"Columbus, OH",False,3.6,$35.31 - $51.84 Per Hour(Employer est.),73444.8,107827.20000000001,90636.0,Senior,Other,Columbus
+Full Stack Software Developer (React / Python ),Rush Order4.3,"Gilroy, CA",False,4.3,$80K - $110K(Employer est.),80000.0,110000.0,95000.0,Not Specified,"Python, Full Stack",Gilroy
+Angular Developer,R2 Technologies Corporation4.6,"Atlanta, GA",False,4.6,$65.00 - $70.00 Per Hour(Employer est.),135200.0,145600.0,140400.0,Not Specified,Other,Atlanta
+Senior Software Developer - Java,Encloud services LLC,"Sacramento, CA",False,3.9,$80.00 Per Hour(Employer est.),166400.0,166400.0,166400.0,Senior,Java,Sacramento
+React developer,R2 Technologies Corporation4.6,"Alpharetta, GA",False,4.6,$60.00 - $80.00 Per Hour(Employer est.),124800.0,166400.0,145600.0,Not Specified,Other,Alpharetta
+Mid-Level Software Developer,DSN Software,"Tulsa, OK",False,3.9,$65K - $75K(Employer est.),65000.0,75000.0,70000.0,Mid,Other,Tulsa
+React JS Developer,TrueFirms | An IT Staff Augmentation Marketplace,"Indore, WV",False,3.9,Not Disclosed,,,,Not Specified,Other,Indore
+Software Developer,Indus Group5.0,"Hackensack, NJ",False,5.0,$91K - $140K(Glassdoor est.),91000.0,140000.0,115500.0,Not Specified,Other,Hackensack
+Software Developer (Junior),AMERICAN SYSTEMS4.4,"Springfield, VA",False,4.4,$78K - $130K(Employer est.),78000.0,130000.0,104000.0,Entry,Other,Springfield
+Developer Publications - Software Engineering Author,Apple4.1,"San Diego, CA",False,4.1,$135K - $251K(Employer est.),135000.0,251000.0,193000.0,Entry,Other,San Diego
+1391 - Software Developer,Sigma Defense4.7,Patuxent River Naval Air Station,False,4.7,$65K - $145K(Employer est.),65000.0,145000.0,105000.0,Senior,Other,Patuxent River Naval Air Station
+Software Developer,Full Visibility LLC5.0,"Stafford, VA",False,5.0,$150K(Employer est.),150000.0,150000.0,150000.0,Not Specified,Other,Stafford
+Web Developer (Part-Time) (690686),R2 Technologies Corporation4.6,"Atlanta, GA",False,4.6,$70.00 - $80.00 Per Hour(Employer est.),145600.0,166400.0,156000.0,Entry,Other,Atlanta
+Software Developer,Delight Consulting Services3.9,United States,False,3.9,Not Disclosed,,,,Not Specified,Other,Remote
+Software Developer,Nixon web tech,"Dallas, TX",False,3.9,$80K - $110K(Employer est.),80000.0,110000.0,95000.0,Not Specified,Other,Dallas
+Software Developer - Web and MES or Ignition Software,Capgemini Engineering3.9,Virginia,False,3.9,Not Disclosed,,,,Entry,Other,Virginia
+Software Developer,SkyePoint Decisions3.6,United States,False,3.6,$90K - $100K(Employer est.),90000.0,100000.0,95000.0,Not Specified,Other,Remote
+Journeyman Software Developer,Precise Systems4.0,"Dahlgren, VA",False,4.0,$75K - $113K(Employer est.),75000.0,113000.0,94000.0,Not Specified,Other,Dahlgren
+Full Stack Web Developer,University of Utah4.2,"Salt Lake City, UT",False,4.2,$70K(Employer est.),70000.0,70000.0,70000.0,Not Specified,Full Stack,Salt Lake City
+Software Developer,Android Industries3.7,"Auburn Hills, MI",False,3.7,$75K - $108K(Glassdoor est.),75000.0,108000.0,91500.0,Not Specified,Other,Auburn Hills
+Backend Developer,Liberty Home Guard4.6,"Brooklyn, NY",False,4.6,$125K - $155K(Employer est.),125000.0,155000.0,140000.0,Not Specified,Backend,Brooklyn
+Software Developer,INFRAPOD TECHNOLOGIES5.0,"San Jose, CA",False,5.0,$99K - $100K(Employer est.),99000.0,100000.0,99500.0,Not Specified,Other,San Jose
+Tools Software Developer - TikTok Effect House,TikTok3.2,"San Jose, CA",False,3.2,$112K - $250K(Employer est.),112000.0,250000.0,181000.0,Entry,Other,San Jose
+Software Developer,Two Six Technologies4.4,"Chantilly, VA",False,4.4,$71K - $104K(Glassdoor est.),71000.0,104000.0,87500.0,Not Specified,Other,Chantilly
+Full Stack Developer,Atlas Technologies Inc4.4,Texas,False,4.4,$90K - $127K(Employer est.),90000.0,127000.0,108500.0,Not Specified,Full Stack,Texas
+Web Software Developer,TechSur Solutions4.2,"Reston, VA",False,4.2,$74K - $109K(Glassdoor est.),74000.0,109000.0,91500.0,Not Specified,Other,Reston
+Front-End Software Developer,Solize USA Corporation3.8,"Austin, TX",False,3.8,Not Disclosed,,,,Not Specified,Other,Austin
+Sr. Software Developer,Ancestry3.6,"Lehi, UT",False,3.6,$112K - $140K(Employer est.),112000.0,140000.0,126000.0,Senior,Other,Lehi
+Fluent English-Speaking Software Developer – Interview Proxy | Remote | Part-Time Contract,Seoptimizes LLC,Remote,True,3.9,$25.00 Per Hour(Employer est.),52000.0,52000.0,52000.0,Entry,Other,Remote
+Software Developer,The Swift Group4.7,"Herndon, VA",False,4.7,$50K - $290K(Employer est.),50000.0,290000.0,170000.0,Not Specified,Other,Herndon
+Software Developer,H2 Performance Consulting4.6,"China Lake Acres, CA",False,4.6,$71K - $112K(Glassdoor est.),71000.0,112000.0,91500.0,Not Specified,Other,China Lake Acres
+Software Developer - Costing Solutions,Plexus3.7,"Neenah, WI",False,3.7,$57K - $85K(Employer est.),57000.0,85000.0,71000.0,Entry,Other,Neenah
+Software Developer (Job Code: 1093),Federal Soft Systems4.1,"Bentonville, AR",False,4.1,$98K(Employer est.),98000.0,98000.0,98000.0,Senior,Other,Bentonville
+Android Engineer - Software Developer / Engineer,R2 Technologies Corporation4.6,"Alpharetta, GA",False,4.6,$80.00 - $90.00 Per Hour(Employer est.),166400.0,187200.0,176800.0,Entry,Other,Alpharetta
+Front End Software Applications Developer,Penn State University4.2,"University Park, PA",False,4.2,$77K - $130K(Employer est.),77000.0,130000.0,103500.0,Entry,Frontend,University Park
+Anti-Submarine Warfare Software Developer,University of Texas at Austin4.1,"Austin, TX",False,4.1,$93K - $175K(Employer est.),93000.0,175000.0,134000.0,Entry,Other,Austin
+Flight Software Developer - IC1-3,All Points Logistics3.9,"Denver, CO",False,3.9,$110K - $130K(Employer est.),110000.0,130000.0,120000.0,Senior,Other,Denver
+Software Developer,Atrutec,"Dallas, TX",False,3.9,$94K(Employer est.),94000.0,94000.0,94000.0,Not Specified,Other,Dallas
+Senior Software Developer,The EDH Global3.4,"Bellevue, WA",False,3.4,$118K - $174K(Glassdoor est.),118000.0,174000.0,146000.0,Senior,Other,Bellevue
+Software Developer,Advanced Medical Manage,"Long Beach, CA",False,3.9,$49.00 - $61.00 Per Hour(Employer est.),101920.0,126880.0,114400.0,Not Specified,Other,Long Beach
+Junior Software Developer,ClearpointCo.4.3,"Houston, TX",False,4.3,$65K - $75K(Employer est.),65000.0,75000.0,70000.0,Entry,Other,Houston
+Software Developer,Spectrum3.3,"Charlotte, NC",False,3.3,$70K - $102K(Glassdoor est.),70000.0,102000.0,86000.0,Not Specified,Other,Charlotte
+Software Engineer (Remote Option Available),Partners Health Management3.8,"Monroe, NC",False,3.8,$45K - $70K(Glassdoor est.),45000.0,70000.0,57500.0,Entry,Other,Monroe
+Software Developer,BiTech5.0,"Novi, MI",False,5.0,$108K(Employer est.),108000.0,108000.0,108000.0,Not Specified,Other,Novi
+Appian Software Developer,Bigbear.ai3.7,"Chantilly, VA",False,3.7,$67K - $111K(Glassdoor est.),67000.0,111000.0,89000.0,Entry,Other,Chantilly
+"Part-Time, Entry Level Software Developer",Kinetics Noise Control4.5,"Dublin, OH",False,4.5,$25.00 Per Hour(Employer est.),52000.0,52000.0,52000.0,Entry,Other,Dublin
+"Senior Backend Software Engineer, Global E-Commerce-Fundamental Business Merchandise",TikTok3.2,"Seattle, WA",False,3.2,$184K - $337K(Employer est.),184000.0,337000.0,260500.0,Senior,Backend,Seattle
+Software Developer,"COMPETENT SYSTEMS, INC3.7","Alpharetta, GA",False,3.7,$70K(Employer est.),70000.0,70000.0,70000.0,Not Specified,Other,Alpharetta
+Software Developer (Emerging Career),SAS4.0,"Cary, NC",False,4.0,$103K - $145K(Glassdoor est.),103000.0,145000.0,124000.0,Entry,Other,Cary
+Software Developer,CPC Technologies LLC4.0,Illinois,False,4.0,Not Disclosed,,,,Not Specified,Other,Illinois
+Software Developer,"Hanford Tank Waste Operations & Closure, LLC (H2C)3.9","Richland, WA",False,3.9,$88K - $135K(Employer est.),88000.0,135000.0,111500.0,Not Specified,Other,Richland
+Software Engineer Ref: #00853,R2 Technologies Corporation4.6,"Alpharetta, GA",False,4.6,$80.00 - $85.00 Per Hour(Employer est.),166400.0,176800.0,171600.0,Senior,Other,Alpharetta
+"Software Engineer, AI Data",GE HEALTHCARE4.2,"Seattle, WA",False,4.2,$136K - $204K(Employer est.),136000.0,204000.0,170000.0,Entry,Data,Seattle
+Junior Full Stack Developer,The Aerospace Corporation3.9,"Chantilly, VA",False,3.9,$70K - $105K(Employer est.),70000.0,105000.0,87500.0,Entry,Full Stack,Chantilly
+Software Engineer II - ABC News Roku,Disney Entertainment3.9,"New York, NY",False,3.9,$115K - $169K(Employer est.),115000.0,169000.0,142000.0,Entry,Other,New York
+Full Stack Developer,Monvik Info Solutions,"Milwaukee, WI",False,3.9,$70.00 - $75.00 Per Hour(Employer est.),145600.0,156000.0,150800.0,Not Specified,Full Stack,Milwaukee
+"Software Development Engineer II, Annapurna Labs",Annapurna Labs (U.S.) Inc.3.7,"Seattle, WA",False,3.7,$129K - $224K(Employer est.),129000.0,224000.0,176500.0,Mid,Other,Seattle
+Software Developer,NS2 Mission4.0,"Chantilly, VA",False,4.0,Not Disclosed,,,,Not Specified,Other,Chantilly
+"Programmer Developer I,II, or Senior",Southwest Power Pool4.5,"Little Rock, AR",False,4.5,$63K - $124K(Employer est.),63000.0,124000.0,93500.0,Senior,Other,Little Rock
+"Systems, Reporting, & Analysis - Reporting Developer",Two Harbors Investment Corp.3.9,"Fort Mill, SC",False,3.9,$79K - $123K(Glassdoor est.),79000.0,123000.0,101000.0,Entry,Other,Fort Mill
+Mobile Front End Software Developer,Taborit Inc,"Schaumburg, IL",False,3.9,$40.00 Per Hour(Employer est.),83200.0,83200.0,83200.0,Entry,Frontend,Schaumburg
+"Software Engineer II, Epic Integrations",Exact Sciences Corporation3.5,"Madison, WI",False,3.5,$85K - $135K(Employer est.),85000.0,135000.0,110000.0,Mid,Other,Madison
+"Software Engineer, PMRA",Point724.0,"Stamford, NY",False,4.0,$200K - $250K(Employer est.),200000.0,250000.0,225000.0,Entry,Other,Stamford
+NextGen Software Developer,DCA,"Northridge, CA",False,3.9,$90K - $120K(Employer est.),90000.0,120000.0,105000.0,Not Specified,Other,Northridge
+IT Software Developer,SCOT FORGE3.5,"Spring Grove, IL",False,3.5,$78K - $111K(Glassdoor est.),78000.0,111000.0,94500.0,Entry,Other,Spring Grove
+Software Engineering - Backend - AI,Keywords Studios3.6,"San Francisco, CA",False,3.6,$65.00 - $90.00 Per Hour(Employer est.),135200.0,187200.0,161200.0,Entry,Backend,San Francisco
+"Software Developer (DevOPS)- Smithfield, RI",Photon4.2,"Smithfield, RI",False,4.2,Not Disclosed,,,,Entry,Other,Smithfield
+"Software Development Engineer I 2025, Redshift",Amazon.com Services LLC3.6,"Seattle, WA",False,3.6,$100K - $200K(Employer est.),100000.0,200000.0,150000.0,Entry,Other,Seattle
+Software Developer (MQ-25),Tekla Research4.5,"Lexington Park, MD",False,4.5,$89K - $162K(Employer est.),89000.0,162000.0,125500.0,Mid,Other,Lexington Park
+AEM Developer / Front end Developer,Gravity Tech Inc,"Houston, TX",False,3.9,$60.00 - $65.00 Per Hour(Employer est.),124800.0,135200.0,130000.0,Not Specified,Frontend,Houston
+LIMs Software Developer,ITR3.9,"Oak Ridge, TN",False,3.9,$103K - $145K(Glassdoor est.),103000.0,145000.0,124000.0,Entry,Other,Oak Ridge
+Software Developer ( Java ),Sonoma Consulting Inc.3.1,"Phoenix, AZ",False,3.1,$83K - $122K(Glassdoor est.),83000.0,122000.0,102500.0,Not Specified,Java,Phoenix
+Software Developer - Herndon Virginia,iSoftTek Solutions Inc1.0,"Herndon, VA",False,1.0,$100K - $115K(Employer est.),100000.0,115000.0,107500.0,Entry,Other,Herndon
+Senior Software Developer,Oracle3.7,"Seattle, WA",False,3.7,$145K - $194K(Glassdoor est.),145000.0,194000.0,169500.0,Senior,Other,Seattle
+Software Developer - Production Support,Porch Software3.3,"Sandy, UT",False,3.3,$80K - $100K(Employer est.),80000.0,100000.0,90000.0,Entry,Other,Sandy
+Sr. Software Development Team Leader,Gesa Credit Union3.3,"Tukwila, WA",False,3.3,$139K - $209K(Employer est.),139000.0,209000.0,174000.0,Senior,Other,Tukwila
+Staff Software Engineer - Uber Courier,Uber3.8,"Seattle, WA",False,3.8,$223K - $248K(Employer est.),223000.0,248000.0,235500.0,Entry,Other,Seattle
+Associate Web Developer,Pacific Sunwear Stores LLC3.7,"Anaheim, CA",False,3.7,$68K - $79K(Employer est.),68000.0,79000.0,73500.0,Entry,Other,Anaheim
+Software Engineer (WPF Developer),Neuronetics Inc3.0,"Malvern, PA",False,3.0,$85K - $116K(Glassdoor est.),85000.0,116000.0,100500.0,Entry,Other,Malvern
+Software Developer (Java),Unique Tech5.0,"Farmington Hills, MI",False,5.0,$69K - $101K(Glassdoor est.),69000.0,101000.0,85000.0,Not Specified,Java,Farmington Hills
+Senior Software Developer - React & Kubernetes Specialist,"SYSCOM, Inc.3.6","Annapolis, MD",False,3.6,$149K - $200K(Employer est.),149000.0,200000.0,174500.0,Senior,Other,Annapolis
+Sr. Software Engineer,DocuSign3.6,"Seattle, WA",False,3.6,$151K - $222K(Employer est.),151000.0,222000.0,186500.0,Senior,Other,Seattle
+"Software Developer (Delphi, SQL)",Epic Aircraft3.3,"Bend, OR",False,3.3,$90K - $130K(Employer est.),90000.0,130000.0,110000.0,Entry,Other,Bend
+Software Engineer II - Devices & Inventory Management,Rippling3.8,"Seattle, WA",False,3.8,$135K - $236K(Employer est.),135000.0,236000.0,185500.0,Entry,Other,Seattle
+Software Developer,"KMS Solutions, LLC4.3","Middletown, RI",False,4.3,$80K - $120K(Employer est.),80000.0,120000.0,100000.0,Not Specified,Other,Middletown
+"SOFTWARE ENGINEERS, entry level",FLASH Technology Group4.1,"Annapolis Junction, MD",False,4.1,$119K - $135K(Employer est.),119000.0,135000.0,127000.0,Entry,Other,Annapolis Junction
+Software Developer,Dutech Systems4.5,"Austin, TX",False,4.5,$110K - $120K(Employer est.),110000.0,120000.0,115000.0,Not Specified,Other,Austin
+Technical - Software Developer,Dutech Systems4.5,"New York, NY",False,4.5,$61.00 - $66.00 Per Hour(Employer est.),126880.0,137280.0,132080.0,Entry,Other,New York
+"Data Analyst, Ticketing",Cleveland Browns3.8,"Berea, OH",False,3.8,$37K - $60K(Glassdoor est.),37000.0,60000.0,48500.0,Entry,Data,Berea
+Data Analyst,Sony Electronics4.0,"Culver City, CA",False,4.0,$95K - $105K(Employer est.),95000.0,105000.0,100000.0,Not Specified,Data,Culver City
+Data Analyst,Pallet Logistics of America,"Fort Smith, AR",False,3.9,$80K - $120K(Employer est.),80000.0,120000.0,100000.0,Not Specified,Data,Fort Smith
+Data Analyst,Business Integra Inc3.8,Remote,True,3.8,$45.00 - $55.00Per Hour(Employer est.),93600.0,114400.0,104000.0,Not Specified,Data,Remote
+Data Analyst,Audien Hearing,"Scottsdale, AZ",False,3.9,$25.00Per Hour(Employer est.),52000.0,52000.0,52000.0,Not Specified,Data,Scottsdale
+Data & AI Product Analyst,Exec Office of Technology Services and Security3.9,"Boston, MA",False,3.9,$80K - $119K(Employer est.),80000.0,119000.0,99500.0,Entry,Data,Boston
+Senior Data Analyst,IIC,"Charlotte, NC",False,3.9,$45.00Per Hour(Employer est.),93600.0,93600.0,93600.0,Senior,Data,Charlotte
+Digital Analytics Data Analyst III,Ahold Delhaize USA3.4,"Quincy, MA",False,3.4,$94K - $141K(Employer est.),94000.0,141000.0,117500.0,Senior,Data,Quincy
+Data Analyst,The Middleby Corporation3.2,"Elgin, IL",False,3.2,$57K - $84K(Glassdoor est.),57000.0,84000.0,70500.0,Not Specified,Data,Elgin
+Data Analyst- Customer Analytics,Nespresso3.9,"New York, NY",False,3.9,$100K - $115K(Employer est.),100000.0,115000.0,107500.0,Entry,Data,New York
+Data Analyst,Catania-Spagna Corp4.2,"Ayer, MA",False,4.2,$59K - $87K(Glassdoor est.),59000.0,87000.0,73000.0,Not Specified,Data,Ayer
+"Analyst, BI Data Analysis",Nestlé USA3.8,"Solon, OH",False,3.8,Not Disclosed,,,,Entry,Data,Solon
+Senior Data Analyst,[solidcore]4.4,"Arlington, VA",False,4.4,$88K - $132K(Glassdoor est.),88000.0,132000.0,110000.0,Senior,Data,Arlington
+Data Analyst - Practice Onboarding,Wedgewood Pharmacy LLC2.5,"Portland, ME",False,2.5,Not Disclosed,,,,Entry,Data,Portland
+Data Analyst,"City of Augusta, GA3.1","Augusta, GA",False,3.1,$46K - $53K(Employer est.),46000.0,53000.0,49500.0,Not Specified,Data,Augusta
+Data Analyst,Diagonal Matrix Ltd3.8,Remote,True,3.8,$150K - $190K(Employer est.),150000.0,190000.0,170000.0,Not Specified,Data,Remote
+Data Analyst,"Roller Bearing Company of America, Inc3.4","Oxford, CT",False,3.4,Not Disclosed,,,,Not Specified,Data,Oxford
+Data Analyst I,Consumers Energy3.3,"Jackson, MI",False,3.3,$30.00 - $38.00Per Hour(Employer est.),62400.0,79040.0,70720.0,Entry,Data,Jackson
+Data Analyst I (Onsite position),Red River Bank3.9,"Alexandria, LA",False,3.9,$48K - $90K(Glassdoor est.),48000.0,90000.0,69000.0,Entry,Data,Alexandria
+Data Analyst,Eclerx3.4,"New York, NY",False,3.4,$110K - $140K(Employer est.),110000.0,140000.0,125000.0,Not Specified,Data,New York
+Data Analyst,SightMD NY,"Hauppauge, NY",False,3.9,$85K - $95K(Employer est.),85000.0,95000.0,90000.0,Not Specified,Data,Hauppauge
+Data Analyst,Caring Transitions4.2,"Sequim, WA",False,4.2,$54K - $80K(Glassdoor est.),54000.0,80000.0,67000.0,Not Specified,Data,Sequim
+Sr. Data Analyst,Ashvam Technologies Pvt Ltd,"Cincinnati, OH",False,3.9,$40.00 - $45.00Per Hour(Employer est.),83200.0,93600.0,88400.0,Senior,Data,Cincinnati
+Data Analyst,Intone Networks4.2,"Montgomery, AL",False,4.2,$50.00Per Hour(Employer est.),104000.0,104000.0,104000.0,Not Specified,Data,Montgomery
+Data Analyst,R2 Technologies Corporation4.6,"Alpharetta, GA",False,4.6,$65.00 - $75.00Per Hour(Employer est.),135200.0,156000.0,145600.0,Not Specified,Data,Alpharetta
+Data analyst,Driven Talent,"Chino, CA",False,3.9,$22.00 - $24.00Per Hour(Employer est.),45760.0,49920.0,47840.0,Not Specified,Data,Chino
+Data Analyst,Shore Medical Center3.4,"Somers Point, NJ",False,3.4,Not Disclosed,,,,Not Specified,Data,Somers Point
+"Sr Data Analyst, People Analytics",Okta3.6,"Bellevue, WA",False,3.6,$108K - $162K(Employer est.),108000.0,162000.0,135000.0,Entry,Data,Bellevue
+Business Data Analyst I,DHL3.8,"Westerville, OH",False,3.8,Not Disclosed,,,,Entry,Data,Westerville
+Data Analyst Clerk,"I-TECH Resources, Inc.3.6","Jacksonville, FL",False,3.6,$23.00 - $24.00Per Hour(Employer est.),47840.0,49920.0,48880.0,Not Specified,Data,Jacksonville
+Data Analyst,Imperial Headwear3.2,"Bourbon, MO",False,3.2,$75K - $85K(Employer est.),75000.0,85000.0,80000.0,Not Specified,Data,Bourbon
+Data Analyst,PLA Buyer LLC,"Fort Smith, AR",False,3.9,$80K - $120K(Employer est.),80000.0,120000.0,100000.0,Not Specified,Data,Fort Smith
+Data Analyst,Cast & Crew3.6,"Burbank, CA",False,3.6,$80K - $105K(Employer est.),80000.0,105000.0,92500.0,Not Specified,Data,Burbank
+Data Analyst,Tools for Humanity3.0,"San Francisco, CA",False,3.0,$83K - $127K(Glassdoor est.),83000.0,127000.0,105000.0,Not Specified,Data,San Francisco
+Data Analyst,William & Mary4.2,"Williamsburg, VA",False,4.2,$75K(Employer est.),75000.0,75000.0,75000.0,Not Specified,Data,Williamsburg
+Analyst,"Vizient, Inc.3.4","Irving, TX",False,3.4,$52K - $88K(Employer est.),52000.0,88000.0,70000.0,Not Specified,Other,Irving
+Associate Data Analyst (HYBRID - MA),The Hanover Insurance Group3.9,"Worcester, MA",False,3.9,$52K - $77K(Glassdoor est.),52000.0,77000.0,64500.0,Entry,Data,Worcester
+Data Analyst (Austin),Texas Workforce Commission3.4,"Austin, TX",False,3.4,$6K(Employer est.),6000.0,6000.0,6000.0,Entry,Data,Austin
+Data Analyst - I,"Certified Technical Experts, Inc.4.0","Brighton, MA",False,4.0,$60.00 - $70.00 Per Hour(Employer est.),124800.0,145600.0,135200.0,Entry,Data,Brighton
+Data Analyst,Parsons4.0,Remote,True,4.0,$87K - $152K(Employer est.),87000.0,152000.0,119500.0,Not Specified,Data,Remote
+Data Analyst,Asmark Institute,"Owensboro, KY",False,3.9,Not Disclosed,,,,Not Specified,Data,Owensboro
+Data Analyst,ExxonMobil3.6,"Houston, TX",False,3.6,$73K - $115K(Glassdoor est.),73000.0,115000.0,94000.0,Not Specified,Data,Houston
+Business Data Analyst II,DHL3.8,"Memphis, TN",False,3.8,Not Disclosed,,,,Mid,Data,Memphis
+Data Protection Svcs Analyst,Henry Ford Health3.9,"Detroit, MI",False,3.9,$70K - $105K(Glassdoor est.),70000.0,105000.0,87500.0,Entry,Data,Detroit
+Data Analyst,CarePoint4.6,"Greenwood Village, CO",False,4.6,$82K(Employer est.),82000.0,82000.0,82000.0,Not Specified,Data,Greenwood Village
+Data Analyst,PAWS Chicago3.3,"Chicago, IL",False,3.3,$50K - $60K(Employer est.),50000.0,60000.0,55000.0,Not Specified,Data,Chicago
+Sr Business Data Analyst,DHL3.8,"Phoenix, AZ",False,3.8,Not Disclosed,,,,Entry,Data,Phoenix
+Data Analyst,BANDGI TECHNOLOGIES PVT LTD,Remote,True,3.9,Not Disclosed,,,,Not Specified,Data,Remote
+Data Analyst II,Alluvionic5.0,"Arlington, VA",False,5.0,$63K - $89K(Glassdoor est.),63000.0,89000.0,76000.0,Mid,Data,Arlington
+TES - Data Analyst,Auburn University4.3,"Auburn, AL",False,4.3,$20.00 - $30.00 Per Hour(Employer est.),41600.0,62400.0,52000.0,Not Specified,Data,Auburn
+Data Analyst Sr,Seattle Children's Hospital3.8,"Seattle, WA",False,3.8,$115K - $173K(Employer est.),115000.0,173000.0,144000.0,Not Specified,Data,Seattle
+Data Analyst,PC Construction Company4.0,"South Burlington, VT",False,4.0,Not Disclosed,,,,Not Specified,Data,South Burlington
+TiMi Bellevue- Data analyst,Tencent4.1,"Bellevue, WA",False,4.1,$33.50 - $60.00 Per Hour(Employer est.),69680.0,124800.0,97240.0,Entry,Data,Bellevue
+Senior Data Analyst,PLAUD ai4.0,"San Francisco, CA",False,4.0,$130K - $190K(Employer est.),130000.0,190000.0,160000.0,Senior,Data,San Francisco
+Data Analyst,Hamilton Storage Technologies3.7,"Franklin, MA",False,3.7,$63K - $101K(Glassdoor est.),63000.0,101000.0,82000.0,Not Specified,Data,Franklin
+Data Analyst,Advantest3.7,"Lake Forest, CA",False,3.7,Not Disclosed,,,,Not Specified,Data,Lake Forest
+Senior Data Analyst/BI DEV-RAD,Mayo Clinic3.9,"Jacksonville, FL",False,3.9,$92K - $137K(Employer est.),92000.0,137000.0,114500.0,Entry,Data,Jacksonville
+Data Analyst 2,Constellis3.2,"Battle Creek, MI",False,3.2,$19.24 Per Hour(Employer est.),40019.2,40019.2,40019.2,Mid,Data,Battle Creek
+Marketing Data Analyst,"Block, Inc.3.8","New York, NY",False,3.8,$89K - $168K(Employer est.),89000.0,168000.0,128500.0,Entry,Data,New York
+Data Analyst,Fuyao Glass America Inc2.7,"Moraine, OH",False,2.7,Not Disclosed,,,,Not Specified,Data,Moraine
