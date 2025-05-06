@@ -1,3 +1,4 @@
+# Add dependencies in the correct order
 numpy==1.24.0
 cython
 streamlit==1.32.0
@@ -5,3 +6,5 @@ scikit-learn==1.4.0
 python-docx==0.8.11
 PyPDF2==3.0.1
 spacy==3.7.4
+
+# You don't need markdown-it-py, mdurl, pygments, or rich directly
