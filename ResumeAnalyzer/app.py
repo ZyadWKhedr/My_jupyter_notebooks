@@ -15,7 +15,7 @@ try:
     nlp = spacy.load("en_core_web_sm")
 except OSError:
     spacy.cli.download("en_core_web_sm")
-    nlp = spacy.load("en_core_web_sm"))
+    nlp = spacy.load("en_core_web_sm")
 
 # Universal skill categories (expandable)
 SKILL_CATEGORIES = {
