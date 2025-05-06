@@ -1,5 +1,6 @@
 import streamlit as st
 import spacy
+import spacy.cli
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from docx import Document
@@ -10,7 +11,11 @@ import pandas as pd
 from io import StringIO
 
 # Load the English language model from spaCy
-nlp = spacy.load('en_core_web_sm')
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    spacy.cli.download("en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm"))
 
 # Universal skill categories (expandable)
 SKILL_CATEGORIES = {
